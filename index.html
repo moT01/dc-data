@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Daily Challenge Data</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="variables.css">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+  <header>
+    <h1>Daily Challenge Data</h1>
+    <h4 id="last-updated"></h4>
+    <h2 id="total-number-of-challenges"></h2>
+    <h2 id="total-number-of-users"></h2>
+  </header>
+
+  <section class="chart-wrap">
+    <h3 id="heading-1">Challenge Completions</h3>
+    <h4>In this data, a challenge can only be completed once per user. Extra language submissions are not counted.</h4>
+
+    <div class="legend" id="challenge-completions-legend">
+      <div class="legend-item" id="challenge-completions-total"></div>
+      <div class="legend-item" id="challenge-completions-on-release-day"></div>
+    </div>
+
+    <div id="challenge-completions-sort-wrap">
+      <label for="sort">Sort by:</label>
+      <select id="challenge-completions-sort">
+        <option value="date" selected>Date</option>
+        <option value="completions">Total Completions</option>
+        <option value="release-day">Release Day Completions</option>
+      </select>
+    </div>
+
+    <div id="chevron-1" class="chevron color-1">&#x25BC;</div>
+
+    <canvas id="completions-per-challenge-canvas"></canvas>
+  </section>
+
+  <section class="chart-wrap">
+    <h3 id="heading-2">Challenge Completions by Weekday</h3>
+    <h4>In this data, a challenge can only be completed once per user. Extra language submissions are not counted.</h4>
+    <div id="chevron-2" class="chevron color-2">&#x25BC;</div>
+    <canvas id="completions-by-weekday-canvas"></canvas>
+  </section>
+
+  <div class="chart-wrap">
+    <h3 id="heading-3">Number of Completions in Each Language</h3>
+    <h4>This differs from the previous data in that a user can complete a single challenge in more than one language.</h4>
+      
+    <div class="legend" id="language-completions-legend">
+      <div class="legend-item" id="language-completions-total"></div>
+      <div class="legend-item" id="language-completions-javascript"></div>
+      <div class="legend-item" id="language-completions-python"></div>
+      <div class="legend-item" id="language-completions-both"></div>
+    </div>
+
+    <div id="language-completions-sort-wrap">
+      <label for="sort">Sort by:</label>
+      <select id="language-completions-sort">
+        <option value="date" selected>Date</option>
+        <option value="total">Total Completions</option>
+        <option value="javascript">JavaScript Completions</option>
+        <option value="python">Python Completions</option>
+        <option value="both">Both Languages Completed</option>
+      </select>
+    </div>
+
+    <div id="chevron-3" class="chevron color-3">&#x25BC;</div>
+    <canvas id="language-completions-canvas"></canvas>
+  </div>
+
+  <div class="chart-wrap">
+    <h3 id="heading-4">Challenge Completion Distribution</h3>
+    <div id="chevron-4" class="chevron color-4">&#x25BC;</div>
+    <canvas id="challenge-completion-distribution-canvas"></canvas>
+  </div>
+
+  <div class="chart-wrap">
+    <h3 id="heading-5">Challenge Completion Distribution On Release Day</h3>
+    <div id="chevron-5" class="chevron color-5">&#x25BC;</div>
+    <canvas id="challenge-completion-distribution-on-release-day-canvas"></canvas>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script type="module" src="helpers.js"></script>
+  <script type="module" src="index.js"></script>
+</body>
+
+</html>
