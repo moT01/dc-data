@@ -1,4028 +1,4481 @@
-export const lastUpdated = '2026-04-08';
+export const lastUpdated = '2026-05-06';
 
 export const dcData = {
-  "numberOfChallenges": 241,
-  "uniqueUsers": 24801,
-  "challengeCompletions": 203909,
-  "challengeCompletionsOnReleaseDay": 89050,
+  "numberOfChallenges": 269,
+  "uniqueUsers": 26663,
+  "challengeCompletions": 223604,
+  "challengeCompletionsOnReleaseDay": 97481,
   "challenges": {
     "2025-08-11T00:00:00.000Z": {
       "challengeNumber": 1,
       "title": "Vowel Balance",
-      "completions": 2040,
+      "completions": 2111,
       "completionsOnReleaseDay": 0
     },
     "2025-08-12T00:00:00.000Z": {
       "challengeNumber": 2,
       "title": "Base Check",
-      "completions": 1285,
+      "completions": 1334,
       "completionsOnReleaseDay": 0
     },
     "2025-08-13T00:00:00.000Z": {
       "challengeNumber": 3,
       "title": "Fibonacci Sequence",
-      "completions": 1243,
+      "completions": 1290,
       "completionsOnReleaseDay": 0
     },
     "2025-08-14T00:00:00.000Z": {
       "challengeNumber": 4,
       "title": "S  P  A  C  E  J  A  M",
-      "completions": 1250,
+      "completions": 1304,
       "completionsOnReleaseDay": 0
     },
     "2025-08-15T00:00:00.000Z": {
       "challengeNumber": 5,
       "title": "Jbelmud Text",
-      "completions": 1178,
+      "completions": 1223,
       "completionsOnReleaseDay": 161
     },
     "2025-08-16T00:00:00.000Z": {
       "challengeNumber": 6,
       "title": "Anagram Checker",
-      "completions": 1327,
+      "completions": 1378,
       "completionsOnReleaseDay": 263
     },
     "2025-08-17T00:00:00.000Z": {
       "challengeNumber": 7,
       "title": "Targeted Sum",
-      "completions": 1256,
+      "completions": 1302,
       "completionsOnReleaseDay": 233
     },
     "2025-08-18T00:00:00.000Z": {
       "challengeNumber": 8,
       "title": "Factorializer",
-      "completions": 1719,
+      "completions": 1763,
       "completionsOnReleaseDay": 602
     },
     "2025-08-19T00:00:00.000Z": {
       "challengeNumber": 9,
       "title": "Sum of Squares",
-      "completions": 1690,
+      "completions": 1737,
       "completionsOnReleaseDay": 641
     },
     "2025-08-20T00:00:00.000Z": {
       "challengeNumber": 10,
       "title": "3 Strikes",
-      "completions": 1341,
+      "completions": 1383,
       "completionsOnReleaseDay": 423
     },
     "2025-08-21T00:00:00.000Z": {
       "challengeNumber": 11,
       "title": "Mile Pace",
-      "completions": 1091,
+      "completions": 1119,
       "completionsOnReleaseDay": 298
     },
     "2025-08-22T00:00:00.000Z": {
       "challengeNumber": 12,
       "title": "Message Decoder",
-      "completions": 865,
+      "completions": 887,
       "completionsOnReleaseDay": 188
     },
     "2025-08-23T00:00:00.000Z": {
       "challengeNumber": 13,
       "title": "Unnatural Prime",
-      "completions": 966,
+      "completions": 993,
       "completionsOnReleaseDay": 259
     },
     "2025-08-24T00:00:00.000Z": {
       "challengeNumber": 14,
       "title": "Character Battle",
-      "completions": 794,
+      "completions": 820,
       "completionsOnReleaseDay": 167
     },
     "2025-08-25T00:00:00.000Z": {
       "challengeNumber": 15,
       "title": "camelCase",
-      "completions": 936,
+      "completions": 967,
       "completionsOnReleaseDay": 282
     },
     "2025-08-26T00:00:00.000Z": {
       "challengeNumber": 16,
       "title": "Reverse Parenthesis",
-      "completions": 602,
+      "completions": 621,
       "completionsOnReleaseDay": 143
     },
     "2025-08-27T00:00:00.000Z": {
       "challengeNumber": 17,
       "title": "Unorder of Operations",
-      "completions": 776,
+      "completions": 794,
       "completionsOnReleaseDay": 228
     },
     "2025-08-28T00:00:00.000Z": {
       "challengeNumber": 18,
       "title": "Second Best",
-      "completions": 759,
+      "completions": 785,
       "completionsOnReleaseDay": 225
     },
     "2025-08-29T00:00:00.000Z": {
       "challengeNumber": 19,
       "title": "Candlelight",
-      "completions": 728,
-      "completionsOnReleaseDay": 219
+      "completions": 747,
+      "completionsOnReleaseDay": 218
     },
     "2025-08-30T00:00:00.000Z": {
       "challengeNumber": 20,
       "title": "Array Duplicates",
-      "completions": 832,
+      "completions": 859,
       "completionsOnReleaseDay": 246
     },
     "2025-08-31T00:00:00.000Z": {
       "challengeNumber": 21,
       "title": "Hex Generator",
-      "completions": 662,
+      "completions": 682,
       "completionsOnReleaseDay": 170
     },
     "2025-09-01T00:00:00.000Z": {
       "challengeNumber": 22,
       "title": "Tribonacci Sequence",
-      "completions": 1695,
+      "completions": 1716,
       "completionsOnReleaseDay": 256
     },
     "2025-09-02T00:00:00.000Z": {
       "challengeNumber": 23,
       "title": "RGB to Hex",
-      "completions": 1249,
+      "completions": 1270,
       "completionsOnReleaseDay": 259
     },
     "2025-09-03T00:00:00.000Z": {
       "challengeNumber": 24,
       "title": "Pangram",
-      "completions": 1209,
+      "completions": 1231,
       "completionsOnReleaseDay": 296
     },
     "2025-09-04T00:00:00.000Z": {
       "challengeNumber": 25,
       "title": "Vowel Repeater",
-      "completions": 1087,
+      "completions": 1112,
       "completionsOnReleaseDay": 287
     },
     "2025-09-05T00:00:00.000Z": {
       "challengeNumber": 26,
       "title": "IPv4 Validator",
-      "completions": 1133,
+      "completions": 1153,
       "completionsOnReleaseDay": 349
     },
     "2025-09-06T00:00:00.000Z": {
       "challengeNumber": 27,
       "title": "Matrix Rotate",
-      "completions": 923,
+      "completions": 942,
       "completionsOnReleaseDay": 258
     },
     "2025-09-07T00:00:00.000Z": {
       "challengeNumber": 28,
       "title": "Roman Numeral Parser",
-      "completions": 1003,
+      "completions": 1020,
       "completionsOnReleaseDay": 287
     },
     "2025-09-08T00:00:00.000Z": {
       "challengeNumber": 29,
       "title": "Acronym Builder",
-      "completions": 1216,
+      "completions": 1236,
       "completionsOnReleaseDay": 460
     },
     "2025-09-09T00:00:00.000Z": {
       "challengeNumber": 30,
       "title": "Unique Characters",
-      "completions": 1334,
+      "completions": 1361,
       "completionsOnReleaseDay": 553
     },
     "2025-09-10T00:00:00.000Z": {
       "challengeNumber": 31,
       "title": "Array Diff",
-      "completions": 1248,
+      "completions": 1272,
       "completionsOnReleaseDay": 496
     },
     "2025-09-11T00:00:00.000Z": {
       "challengeNumber": 32,
       "title": "Reverse Sentence",
-      "completions": 1305,
+      "completions": 1331,
       "completionsOnReleaseDay": 593
     },
     "2025-09-12T00:00:00.000Z": {
       "challengeNumber": 33,
       "title": "Screen Time",
-      "completions": 1221,
+      "completions": 1243,
       "completionsOnReleaseDay": 533
     },
     "2025-09-13T00:00:00.000Z": {
       "challengeNumber": 34,
       "title": "Missing Numbers",
-      "completions": 1190,
+      "completions": 1212,
       "completionsOnReleaseDay": 495
     },
     "2025-09-14T00:00:00.000Z": {
       "challengeNumber": 35,
       "title": "Word Frequency",
-      "completions": 900,
+      "completions": 920,
       "completionsOnReleaseDay": 309
     },
     "2025-09-15T00:00:00.000Z": {
       "challengeNumber": 36,
       "title": "Thermostat Adjuster",
-      "completions": 1565,
+      "completions": 1586,
       "completionsOnReleaseDay": 880
     },
     "2025-09-16T00:00:00.000Z": {
       "challengeNumber": 37,
       "title": "Sentence Capitalizer",
-      "completions": 881,
+      "completions": 901,
       "completionsOnReleaseDay": 390
     },
     "2025-09-17T00:00:00.000Z": {
       "challengeNumber": 38,
       "title": "Slug Generator",
-      "completions": 1004,
+      "completions": 1025,
       "completionsOnReleaseDay": 418
     },
     "2025-09-18T00:00:00.000Z": {
       "challengeNumber": 39,
       "title": "Fill The Tank",
-      "completions": 1294,
+      "completions": 1320,
       "completionsOnReleaseDay": 611
     },
     "2025-09-19T00:00:00.000Z": {
       "challengeNumber": 40,
       "title": "Photo Storage",
-      "completions": 1300,
+      "completions": 1325,
       "completionsOnReleaseDay": 684
     },
     "2025-09-20T00:00:00.000Z": {
       "challengeNumber": 41,
       "title": "File Storage",
-      "completions": 1017,
+      "completions": 1040,
       "completionsOnReleaseDay": 417
     },
     "2025-09-21T00:00:00.000Z": {
       "challengeNumber": 42,
       "title": "Video Storage",
-      "completions": 930,
+      "completions": 954,
       "completionsOnReleaseDay": 307
     },
     "2025-09-22T00:00:00.000Z": {
       "challengeNumber": 43,
       "title": "Digits vs Letters",
-      "completions": 1225,
+      "completions": 1257,
       "completionsOnReleaseDay": 612
     },
     "2025-09-23T00:00:00.000Z": {
       "challengeNumber": 44,
       "title": "String Mirror",
-      "completions": 1147,
+      "completions": 1175,
       "completionsOnReleaseDay": 525
     },
     "2025-09-24T00:00:00.000Z": {
       "challengeNumber": 45,
       "title": "Perfect Square",
-      "completions": 1283,
+      "completions": 1305,
       "completionsOnReleaseDay": 664
     },
     "2025-09-25T00:00:00.000Z": {
       "challengeNumber": 46,
       "title": "2nd Largest",
-      "completions": 1198,
+      "completions": 1224,
       "completionsOnReleaseDay": 639
     },
     "2025-09-26T00:00:00.000Z": {
       "challengeNumber": 47,
       "title": "Caught Speeding",
-      "completions": 1128,
+      "completions": 1152,
       "completionsOnReleaseDay": 593
     },
     "2025-09-27T00:00:00.000Z": {
       "challengeNumber": 48,
       "title": "Spam Detector",
-      "completions": 743,
+      "completions": 767,
       "completionsOnReleaseDay": 244
     },
     "2025-09-28T00:00:00.000Z": {
       "challengeNumber": 49,
       "title": "CSV Header Parser",
-      "completions": 1014,
+      "completions": 1040,
       "completionsOnReleaseDay": 424
     },
     "2025-09-29T00:00:00.000Z": {
       "challengeNumber": 50,
       "title": "Longest Word",
-      "completions": 1150,
+      "completions": 1179,
       "completionsOnReleaseDay": 589
     },
     "2025-09-30T00:00:00.000Z": {
       "challengeNumber": 51,
       "title": "Phone Number Formatter",
-      "completions": 1138,
+      "completions": 1161,
       "completionsOnReleaseDay": 600
     },
     "2025-10-01T00:00:00.000Z": {
       "challengeNumber": 52,
       "title": "Binary to Decimal",
-      "completions": 2125,
+      "completions": 2148,
       "completionsOnReleaseDay": 578
     },
     "2025-10-02T00:00:00.000Z": {
       "challengeNumber": 53,
       "title": "Decimal to Binary",
-      "completions": 1746,
+      "completions": 1767,
       "completionsOnReleaseDay": 607
     },
     "2025-10-03T00:00:00.000Z": {
       "challengeNumber": 54,
       "title": "P@ssw0rd Str3ngth!",
-      "completions": 1494,
+      "completions": 1514,
       "completionsOnReleaseDay": 525
     },
     "2025-10-04T00:00:00.000Z": {
       "challengeNumber": 55,
       "title": "Space Week Day 1: Stellar Classification",
-      "completions": 1570,
+      "completions": 1589,
       "completionsOnReleaseDay": 568
     },
     "2025-10-05T00:00:00.000Z": {
       "challengeNumber": 56,
       "title": "Space Week Day 2: Exoplanet Search",
-      "completions": 1109,
+      "completions": 1127,
       "completionsOnReleaseDay": 387
     },
     "2025-10-06T00:00:00.000Z": {
       "challengeNumber": 57,
       "title": "Space Week Day 3: Phone Home",
-      "completions": 1092,
+      "completions": 1111,
       "completionsOnReleaseDay": 471
     },
     "2025-10-07T00:00:00.000Z": {
       "challengeNumber": 58,
       "title": "Space Week Day 4: Landing Spot",
-      "completions": 781,
+      "completions": 797,
       "completionsOnReleaseDay": 304
     },
     "2025-10-08T00:00:00.000Z": {
       "challengeNumber": 59,
       "title": "Space Week Day 5: Goldilocks Zone",
-      "completions": 1083,
+      "completions": 1103,
       "completionsOnReleaseDay": 550
     },
     "2025-10-09T00:00:00.000Z": {
       "challengeNumber": 60,
       "title": "Space Week Day 6: Moon Phase",
-      "completions": 810,
+      "completions": 824,
       "completionsOnReleaseDay": 367
     },
     "2025-10-10T00:00:00.000Z": {
       "challengeNumber": 61,
       "title": "Space Week Day 7: Launch Fuel",
-      "completions": 791,
+      "completions": 807,
       "completionsOnReleaseDay": 355
     },
     "2025-10-11T00:00:00.000Z": {
       "challengeNumber": 62,
       "title": "Hex to Decimal",
-      "completions": 870,
+      "completions": 890,
       "completionsOnReleaseDay": 373
     },
     "2025-10-12T00:00:00.000Z": {
       "challengeNumber": 63,
       "title": "Battle of Words",
-      "completions": 767,
+      "completions": 784,
       "completionsOnReleaseDay": 295
     },
     "2025-10-13T00:00:00.000Z": {
       "challengeNumber": 64,
       "title": "24 to 12",
-      "completions": 993,
+      "completions": 1020,
       "completionsOnReleaseDay": 523
     },
     "2025-10-14T00:00:00.000Z": {
       "challengeNumber": 65,
       "title": "String Count",
-      "completions": 919,
-      "completionsOnReleaseDay": 496
+      "completions": 936,
+      "completionsOnReleaseDay": 495
     },
     "2025-10-15T00:00:00.000Z": {
       "challengeNumber": 66,
       "title": "HTML Tag Stripper",
-      "completions": 803,
+      "completions": 820,
       "completionsOnReleaseDay": 418
     },
     "2025-10-16T00:00:00.000Z": {
       "challengeNumber": 67,
       "title": "Email Validator",
-      "completions": 713,
+      "completions": 733,
       "completionsOnReleaseDay": 347
     },
     "2025-10-17T00:00:00.000Z": {
       "challengeNumber": 68,
       "title": "Credit Card Masker",
-      "completions": 920,
+      "completions": 946,
       "completionsOnReleaseDay": 491
     },
     "2025-10-18T00:00:00.000Z": {
       "challengeNumber": 69,
       "title": "Missing Socks",
-      "completions": 751,
+      "completions": 773,
       "completionsOnReleaseDay": 346
     },
     "2025-10-19T00:00:00.000Z": {
       "challengeNumber": 70,
       "title": "HTML Attribute Extractor",
-      "completions": 581,
+      "completions": 596,
       "completionsOnReleaseDay": 238
     },
     "2025-10-20T00:00:00.000Z": {
       "challengeNumber": 71,
       "title": "Tip Calculator",
-      "completions": 878,
+      "completions": 897,
       "completionsOnReleaseDay": 443
     },
     "2025-10-21T00:00:00.000Z": {
       "challengeNumber": 72,
       "title": "Thermostat Adjuster 2",
-      "completions": 874,
+      "completions": 897,
       "completionsOnReleaseDay": 497
     },
     "2025-10-22T00:00:00.000Z": {
       "challengeNumber": 73,
       "title": "Speak Wisely, You Must",
-      "completions": 689,
+      "completions": 709,
       "completionsOnReleaseDay": 329
     },
     "2025-10-23T00:00:00.000Z": {
       "challengeNumber": 74,
       "title": "Favorite Songs",
-      "completions": 791,
+      "completions": 811,
       "completionsOnReleaseDay": 421
     },
     "2025-10-24T00:00:00.000Z": {
       "challengeNumber": 75,
       "title": "Hidden Treasure",
-      "completions": 621,
+      "completions": 640,
       "completionsOnReleaseDay": 304
     },
     "2025-10-25T00:00:00.000Z": {
       "challengeNumber": 76,
       "title": "Complementary DNA",
-      "completions": 816,
+      "completions": 835,
       "completionsOnReleaseDay": 383
     },
     "2025-10-26T00:00:00.000Z": {
       "challengeNumber": 77,
       "title": "Duration Formatter",
-      "completions": 745,
+      "completions": 765,
       "completionsOnReleaseDay": 322
     },
     "2025-10-27T00:00:00.000Z": {
       "challengeNumber": 78,
       "title": "Integer Sequence",
-      "completions": 1074,
+      "completions": 1095,
       "completionsOnReleaseDay": 674
     },
     "2025-10-28T00:00:00.000Z": {
       "challengeNumber": 79,
       "title": "Navigator",
-      "completions": 629,
+      "completions": 645,
       "completionsOnReleaseDay": 341
     },
     "2025-10-29T00:00:00.000Z": {
       "challengeNumber": 80,
       "title": "Email Sorter",
-      "completions": 627,
+      "completions": 642,
       "completionsOnReleaseDay": 313
     },
     "2025-10-30T00:00:00.000Z": {
       "challengeNumber": 81,
       "title": "Nth Prime",
-      "completions": 711,
+      "completions": 726,
       "completionsOnReleaseDay": 371
     },
     "2025-10-31T00:00:00.000Z": {
       "challengeNumber": 82,
       "title": "SpOoKy~CaSe",
-      "completions": 759,
+      "completions": 780,
       "completionsOnReleaseDay": 397
     },
     "2025-11-01T00:00:00.000Z": {
       "challengeNumber": 83,
       "title": "Signature Validation",
-      "completions": 1247,
+      "completions": 1267,
       "completionsOnReleaseDay": 310
     },
     "2025-11-02T00:00:00.000Z": {
       "challengeNumber": 84,
       "title": "Infected",
-      "completions": 1137,
+      "completions": 1161,
       "completionsOnReleaseDay": 355
     },
     "2025-11-03T00:00:00.000Z": {
       "challengeNumber": 85,
       "title": "Word Counter",
-      "completions": 1514,
+      "completions": 1543,
       "completionsOnReleaseDay": 692
     },
     "2025-11-04T00:00:00.000Z": {
       "challengeNumber": 86,
       "title": "Image Search",
-      "completions": 1162,
+      "completions": 1181,
       "completionsOnReleaseDay": 523
     },
     "2025-11-05T00:00:00.000Z": {
       "challengeNumber": 87,
       "title": "Matrix Builder",
-      "completions": 1187,
+      "completions": 1208,
       "completionsOnReleaseDay": 589
     },
     "2025-11-06T00:00:00.000Z": {
       "challengeNumber": 88,
       "title": "Weekday Finder",
-      "completions": 1014,
+      "completions": 1032,
       "completionsOnReleaseDay": 498
     },
     "2025-11-07T00:00:00.000Z": {
       "challengeNumber": 89,
       "title": "Counting Cards",
-      "completions": 841,
+      "completions": 857,
       "completionsOnReleaseDay": 400
     },
     "2025-11-08T00:00:00.000Z": {
       "challengeNumber": 90,
       "title": "Character Limit",
-      "completions": 1133,
+      "completions": 1154,
       "completionsOnReleaseDay": 526
     },
     "2025-11-09T00:00:00.000Z": {
       "challengeNumber": 91,
       "title": "Word Search",
-      "completions": 513,
+      "completions": 525,
       "completionsOnReleaseDay": 156
     },
     "2025-11-10T00:00:00.000Z": {
       "challengeNumber": 92,
       "title": "Extension Extractor",
-      "completions": 1018,
+      "completions": 1035,
       "completionsOnReleaseDay": 533
     },
     "2025-11-11T00:00:00.000Z": {
       "challengeNumber": 93,
       "title": "Vowels and Consonants",
-      "completions": 1034,
+      "completions": 1052,
       "completionsOnReleaseDay": 554
     },
     "2025-11-12T00:00:00.000Z": {
       "challengeNumber": 94,
       "title": "Email Signature Generator",
-      "completions": 908,
+      "completions": 927,
       "completionsOnReleaseDay": 494
     },
     "2025-11-13T00:00:00.000Z": {
       "challengeNumber": 95,
       "title": "Array Shift",
-      "completions": 735,
+      "completions": 750,
       "completionsOnReleaseDay": 396
     },
     "2025-11-14T00:00:00.000Z": {
       "challengeNumber": 96,
       "title": "Is It the Weekend?",
-      "completions": 668,
+      "completions": 683,
       "completionsOnReleaseDay": 361
     },
     "2025-11-15T00:00:00.000Z": {
       "challengeNumber": 97,
       "title": "GCD",
-      "completions": 765,
+      "completions": 780,
       "completionsOnReleaseDay": 354
     },
     "2025-11-16T00:00:00.000Z": {
       "challengeNumber": 98,
       "title": "Rectangle Count",
-      "completions": 587,
+      "completions": 598,
       "completionsOnReleaseDay": 262
     },
     "2025-11-17T00:00:00.000Z": {
       "challengeNumber": 99,
       "title": "Fingerprint Test",
-      "completions": 794,
+      "completions": 808,
       "completionsOnReleaseDay": 423
     },
     "2025-11-18T00:00:00.000Z": {
       "challengeNumber": 100,
       "title": "100 Characters",
-      "completions": 889,
+      "completions": 913,
       "completionsOnReleaseDay": 514
     },
     "2025-11-19T00:00:00.000Z": {
       "challengeNumber": 101,
       "title": "Markdown Heading Converter",
-      "completions": 617,
+      "completions": 631,
       "completionsOnReleaseDay": 335
     },
     "2025-11-20T00:00:00.000Z": {
       "challengeNumber": 102,
       "title": "Longest Word",
-      "completions": 764,
+      "completions": 780,
       "completionsOnReleaseDay": 385
     },
     "2025-11-21T00:00:00.000Z": {
       "challengeNumber": 103,
       "title": "LCM",
-      "completions": 688,
+      "completions": 700,
       "completionsOnReleaseDay": 384
     },
     "2025-11-22T00:00:00.000Z": {
       "challengeNumber": 104,
       "title": "Recipe Scaler",
-      "completions": 579,
+      "completions": 592,
       "completionsOnReleaseDay": 265
     },
     "2025-11-23T00:00:00.000Z": {
       "challengeNumber": 105,
       "title": "Character Count",
-      "completions": 660,
+      "completions": 672,
       "completionsOnReleaseDay": 289
     },
     "2025-11-24T00:00:00.000Z": {
       "challengeNumber": 106,
       "title": "Message Validator",
-      "completions": 768,
+      "completions": 778,
       "completionsOnReleaseDay": 442
     },
     "2025-11-25T00:00:00.000Z": {
       "challengeNumber": 107,
       "title": "FizzBuzz",
-      "completions": 860,
+      "completions": 874,
       "completionsOnReleaseDay": 522
     },
     "2025-11-26T00:00:00.000Z": {
       "challengeNumber": 108,
       "title": "BuzzFizz",
-      "completions": 645,
+      "completions": 656,
       "completionsOnReleaseDay": 370
     },
     "2025-11-27T00:00:00.000Z": {
       "challengeNumber": 109,
       "title": "What's My Age Again?",
-      "completions": 654,
+      "completions": 667,
       "completionsOnReleaseDay": 363
     },
     "2025-11-28T00:00:00.000Z": {
       "challengeNumber": 110,
       "title": "Word Guesser",
-      "completions": 469,
+      "completions": 479,
       "completionsOnReleaseDay": 206
     },
     "2025-11-29T00:00:00.000Z": {
       "challengeNumber": 111,
       "title": "Ball Trajectory",
-      "completions": 369,
+      "completions": 380,
       "completionsOnReleaseDay": 160
     },
     "2025-11-30T00:00:00.000Z": {
       "challengeNumber": 112,
       "title": "AI Detector",
-      "completions": 549,
+      "completions": 562,
       "completionsOnReleaseDay": 248
     },
     "2025-12-01T00:00:00.000Z": {
       "challengeNumber": 113,
       "title": "Miles to Kilometers",
-      "completions": 1723,
+      "completions": 1746,
       "completionsOnReleaseDay": 559
     },
     "2025-12-02T00:00:00.000Z": {
       "challengeNumber": 114,
       "title": "Camel to Snake",
-      "completions": 1212,
+      "completions": 1231,
       "completionsOnReleaseDay": 446
     },
     "2025-12-03T00:00:00.000Z": {
       "challengeNumber": 115,
       "title": "Markdown Ordered List Item Converter",
-      "completions": 726,
+      "completions": 740,
       "completionsOnReleaseDay": 316
     },
     "2025-12-04T00:00:00.000Z": {
       "challengeNumber": 116,
       "title": "Permutation Count",
-      "completions": 607,
+      "completions": 618,
       "completionsOnReleaseDay": 273
     },
     "2025-12-05T00:00:00.000Z": {
       "challengeNumber": 117,
       "title": "Symmetric Difference",
-      "completions": 738,
+      "completions": 754,
       "completionsOnReleaseDay": 349
     },
     "2025-12-06T00:00:00.000Z": {
       "challengeNumber": 118,
       "title": "Date Formatter",
-      "completions": 658,
+      "completions": 674,
       "completionsOnReleaseDay": 266
     },
     "2025-12-07T00:00:00.000Z": {
       "challengeNumber": 119,
       "title": "String Compression",
-      "completions": 647,
+      "completions": 662,
       "completionsOnReleaseDay": 230
     },
     "2025-12-08T00:00:00.000Z": {
       "challengeNumber": 120,
       "title": "Pounds to Kilograms",
-      "completions": 809,
+      "completions": 829,
       "completionsOnReleaseDay": 378
     },
     "2025-12-09T00:00:00.000Z": {
       "challengeNumber": 121,
       "title": "Most Frequent",
-      "completions": 751,
+      "completions": 770,
       "completionsOnReleaseDay": 375
     },
     "2025-12-10T00:00:00.000Z": {
       "challengeNumber": 122,
       "title": "Markdown Bold Parser",
-      "completions": 460,
+      "completions": 471,
       "completionsOnReleaseDay": 204
     },
     "2025-12-11T00:00:00.000Z": {
       "challengeNumber": 123,
       "title": "Roman Numeral Builder",
-      "completions": 503,
+      "completions": 517,
       "completionsOnReleaseDay": 208
     },
     "2025-12-12T00:00:00.000Z": {
       "challengeNumber": 124,
       "title": "Inventory Update",
-      "completions": 565,
+      "completions": 577,
       "completionsOnReleaseDay": 258
     },
     "2025-12-13T00:00:00.000Z": {
       "challengeNumber": 125,
       "title": "Game of Life",
-      "completions": 381,
+      "completions": 392,
       "completionsOnReleaseDay": 139
     },
     "2025-12-14T00:00:00.000Z": {
       "challengeNumber": 126,
       "title": "Capitalize It",
-      "completions": 789,
+      "completions": 818,
       "completionsOnReleaseDay": 297
     },
     "2025-12-15T00:00:00.000Z": {
       "challengeNumber": 127,
       "title": "Speed Check",
-      "completions": 860,
+      "completions": 879,
       "completionsOnReleaseDay": 459
     },
     "2025-12-16T00:00:00.000Z": {
       "challengeNumber": 128,
       "title": "Consonant Count",
-      "completions": 752,
+      "completions": 772,
       "completionsOnReleaseDay": 411
     },
     "2025-12-17T00:00:00.000Z": {
       "challengeNumber": 129,
       "title": "Markdown Blockquote Parser",
-      "completions": 565,
+      "completions": 578,
       "completionsOnReleaseDay": 323
     },
     "2025-12-18T00:00:00.000Z": {
       "challengeNumber": 130,
       "title": "Checkerboard",
-      "completions": 600,
+      "completions": 615,
       "completionsOnReleaseDay": 324
     },
     "2025-12-19T00:00:00.000Z": {
       "challengeNumber": 131,
       "title": "Pairwise",
-      "completions": 592,
+      "completions": 605,
       "completionsOnReleaseDay": 323
     },
     "2025-12-20T00:00:00.000Z": {
       "challengeNumber": 132,
       "title": "Purge Most Frequent",
-      "completions": 509,
+      "completions": 523,
       "completionsOnReleaseDay": 246
     },
     "2025-12-21T00:00:00.000Z": {
       "challengeNumber": 133,
       "title": "Daylight Hours",
-      "completions": 520,
+      "completions": 535,
       "completionsOnReleaseDay": 233
     },
     "2025-12-22T00:00:00.000Z": {
       "challengeNumber": 134,
       "title": "Traveling Shopper",
-      "completions": 527,
+      "completions": 541,
       "completionsOnReleaseDay": 258
     },
     "2025-12-23T00:00:00.000Z": {
       "challengeNumber": 135,
       "title": "Re: Fwd: Fw: Count",
-      "completions": 594,
+      "completions": 609,
       "completionsOnReleaseDay": 334
     },
     "2025-12-24T00:00:00.000Z": {
       "challengeNumber": 136,
       "title": "Markdown Image Parser",
-      "completions": 479,
+      "completions": 492,
       "completionsOnReleaseDay": 233
     },
     "2025-12-25T00:00:00.000Z": {
       "challengeNumber": 137,
       "title": "Snowflake Generator",
-      "completions": 467,
+      "completions": 481,
       "completionsOnReleaseDay": 197
     },
     "2025-12-26T00:00:00.000Z": {
       "challengeNumber": 138,
       "title": "Sum of Divisors",
-      "completions": 711,
+      "completions": 733,
       "completionsOnReleaseDay": 381
     },
     "2025-12-27T00:00:00.000Z": {
       "challengeNumber": 139,
       "title": "Rock, Paper, Scissors",
-      "completions": 707,
+      "completions": 728,
       "completionsOnReleaseDay": 356
     },
     "2025-12-28T00:00:00.000Z": {
       "challengeNumber": 140,
       "title": "SCREAMING_SNAKE_CASE",
-      "completions": 584,
+      "completions": 604,
       "completionsOnReleaseDay": 274
     },
     "2025-12-29T00:00:00.000Z": {
       "challengeNumber": 141,
       "title": "Takeoff Fuel",
-      "completions": 652,
+      "completions": 671,
       "completionsOnReleaseDay": 377
     },
     "2025-12-30T00:00:00.000Z": {
       "challengeNumber": 142,
       "title": "Sum the String",
-      "completions": 619,
+      "completions": 646,
       "completionsOnReleaseDay": 345
     },
     "2025-12-31T00:00:00.000Z": {
       "challengeNumber": 143,
       "title": "Markdown Italic Parser",
-      "completions": 403,
+      "completions": 416,
       "completionsOnReleaseDay": 216
     },
     "2026-01-01T00:00:00.000Z": {
       "challengeNumber": 144,
       "title": "Resolution Streak",
-      "completions": 1237,
+      "completions": 1268,
       "completionsOnReleaseDay": 279
     },
     "2026-01-02T00:00:00.000Z": {
       "challengeNumber": 145,
       "title": "Nth Fibonacci Number",
-      "completions": 1128,
+      "completions": 1156,
       "completionsOnReleaseDay": 379
     },
     "2026-01-03T00:00:00.000Z": {
       "challengeNumber": 146,
       "title": "Left-Handed Seat at the Table",
-      "completions": 705,
+      "completions": 719,
       "completionsOnReleaseDay": 216
     },
     "2026-01-04T00:00:00.000Z": {
       "challengeNumber": 147,
       "title": "Leap Year Calculator",
-      "completions": 1097,
+      "completions": 1125,
       "completionsOnReleaseDay": 404
     },
     "2026-01-05T00:00:00.000Z": {
       "challengeNumber": 148,
       "title": "Tire Pressure",
-      "completions": 1048,
+      "completions": 1076,
       "completionsOnReleaseDay": 448
     },
     "2026-01-06T00:00:00.000Z": {
       "challengeNumber": 149,
       "title": "vOwElcAsE",
-      "completions": 1076,
+      "completions": 1111,
       "completionsOnReleaseDay": 464
     },
     "2026-01-07T00:00:00.000Z": {
       "challengeNumber": 150,
       "title": "Markdown Unordered List Parser",
-      "completions": 662,
+      "completions": 680,
       "completionsOnReleaseDay": 295
     },
     "2026-01-08T00:00:00.000Z": {
       "challengeNumber": 151,
       "title": "Sorted Array?",
-      "completions": 922,
+      "completions": 953,
       "completionsOnReleaseDay": 423
     },
     "2026-01-09T00:00:00.000Z": {
       "challengeNumber": 152,
       "title": "Circular Prime",
-      "completions": 678,
+      "completions": 696,
       "completionsOnReleaseDay": 300
     },
     "2026-01-10T00:00:00.000Z": {
       "challengeNumber": 153,
       "title": "Tic-Tac-Toe",
-      "completions": 632,
+      "completions": 651,
       "completionsOnReleaseDay": 206
     },
     "2026-01-11T00:00:00.000Z": {
       "challengeNumber": 154,
       "title": "Par for the Hole",
-      "completions": 884,
+      "completions": 907,
       "completionsOnReleaseDay": 332
     },
     "2026-01-12T00:00:00.000Z": {
       "challengeNumber": 155,
       "title": "Plant the Crop",
-      "completions": 887,
+      "completions": 906,
       "completionsOnReleaseDay": 418
     },
     "2026-01-13T00:00:00.000Z": {
       "challengeNumber": 156,
       "title": "Odd or Even?",
-      "completions": 1398,
+      "completions": 1435,
       "completionsOnReleaseDay": 682
     },
     "2026-01-14T00:00:00.000Z": {
       "challengeNumber": 157,
       "title": "Markdown Link Parser",
-      "completions": 709,
+      "completions": 725,
       "completionsOnReleaseDay": 368
     },
     "2026-01-15T00:00:00.000Z": {
       "challengeNumber": 158,
       "title": "Array Swap",
-      "completions": 1083,
+      "completions": 1109,
       "completionsOnReleaseDay": 601
     },
     "2026-01-16T00:00:00.000Z": {
       "challengeNumber": 159,
       "title": "Integer Hypotenuse",
-      "completions": 927,
+      "completions": 949,
       "completionsOnReleaseDay": 525
     },
     "2026-01-17T00:00:00.000Z": {
       "challengeNumber": 160,
       "title": "Knight Moves",
-      "completions": 549,
+      "completions": 564,
       "completionsOnReleaseDay": 207
     },
     "2026-01-18T00:00:00.000Z": {
       "challengeNumber": 161,
       "title": "Free Shipping",
-      "completions": 862,
+      "completions": 886,
       "completionsOnReleaseDay": 340
     },
     "2026-01-19T00:00:00.000Z": {
       "challengeNumber": 162,
       "title": "Energy Consumption",
-      "completions": 994,
+      "completions": 1016,
       "completionsOnReleaseDay": 551
     },
     "2026-01-20T00:00:00.000Z": {
       "challengeNumber": 163,
       "title": "Consonant Case",
-      "completions": 863,
+      "completions": 884,
       "completionsOnReleaseDay": 478
     },
     "2026-01-21T00:00:00.000Z": {
       "challengeNumber": 164,
       "title": "Markdown Inline Code Parser",
-      "completions": 646,
+      "completions": 660,
       "completionsOnReleaseDay": 346
     },
     "2026-01-22T00:00:00.000Z": {
       "challengeNumber": 165,
       "title": "Class Average",
-      "completions": 877,
+      "completions": 895,
       "completionsOnReleaseDay": 433
     },
     "2026-01-23T00:00:00.000Z": {
       "challengeNumber": 166,
       "title": "Hex Validator",
-      "completions": 768,
+      "completions": 782,
       "completionsOnReleaseDay": 387
     },
     "2026-01-24T00:00:00.000Z": {
       "challengeNumber": 167,
       "title": "Bingo! Letter",
-      "completions": 921,
+      "completions": 941,
       "completionsOnReleaseDay": 439
     },
     "2026-01-25T00:00:00.000Z": {
       "challengeNumber": 168,
       "title": "Scaled Image",
-      "completions": 887,
+      "completions": 906,
       "completionsOnReleaseDay": 427
     },
     "2026-01-26T00:00:00.000Z": {
       "challengeNumber": 169,
       "title": "FizzBuzz Mini",
-      "completions": 1032,
+      "completions": 1053,
       "completionsOnReleaseDay": 597
     },
     "2026-01-27T00:00:00.000Z": {
       "challengeNumber": 170,
       "title": "Odd or Even Day",
-      "completions": 708,
+      "completions": 723,
       "completionsOnReleaseDay": 390
     },
     "2026-01-28T00:00:00.000Z": {
       "challengeNumber": 171,
       "title": "Flatten the Array",
-      "completions": 704,
+      "completions": 722,
       "completionsOnReleaseDay": 384
     },
     "2026-01-29T00:00:00.000Z": {
       "challengeNumber": 172,
       "title": "Letters-Numbers",
-      "completions": 704,
+      "completions": 723,
       "completionsOnReleaseDay": 382
     },
     "2026-01-30T00:00:00.000Z": {
       "challengeNumber": 173,
       "title": "Valid Pawn Moves",
-      "completions": 579,
+      "completions": 596,
       "completionsOnReleaseDay": 325
     },
     "2026-01-31T00:00:00.000Z": {
       "challengeNumber": 174,
       "title": "Zodiac Finder",
-      "completions": 546,
+      "completions": 557,
       "completionsOnReleaseDay": 255
     },
     "2026-02-01T00:00:00.000Z": {
       "challengeNumber": 175,
       "title": "Digital Detox",
-      "completions": 634,
+      "completions": 644,
       "completionsOnReleaseDay": 161
     },
     "2026-02-02T00:00:00.000Z": {
       "challengeNumber": 176,
       "title": "Groundhog Day",
-      "completions": 1229,
+      "completions": 1249,
       "completionsOnReleaseDay": 514
     },
     "2026-02-03T00:00:00.000Z": {
       "challengeNumber": 177,
       "title": "String Mirror",
-      "completions": 1317,
+      "completions": 1352,
       "completionsOnReleaseDay": 592
     },
     "2026-02-04T00:00:00.000Z": {
       "challengeNumber": 178,
       "title": "Truncate the Text",
-      "completions": 1196,
+      "completions": 1224,
       "completionsOnReleaseDay": 585
     },
     "2026-02-05T00:00:00.000Z": {
       "challengeNumber": 179,
       "title": "Pocket Change",
-      "completions": 1038,
+      "completions": 1057,
       "completionsOnReleaseDay": 485
     },
     "2026-02-06T00:00:00.000Z": {
       "challengeNumber": 180,
       "title": "2026 Winter Games Day 1: Opening Day",
-      "completions": 820,
+      "completions": 839,
       "completionsOnReleaseDay": 387
     },
     "2026-02-07T00:00:00.000Z": {
       "challengeNumber": 181,
       "title": "2026 Winter Games Day 2: Snowboarding",
-      "completions": 730,
+      "completions": 746,
       "completionsOnReleaseDay": 280
     },
     "2026-02-08T00:00:00.000Z": {
       "challengeNumber": 182,
       "title": "2026 Winter Games Day 3: Biathlon",
-      "completions": 857,
+      "completions": 871,
       "completionsOnReleaseDay": 384
     },
     "2026-02-09T00:00:00.000Z": {
       "challengeNumber": 183,
       "title": "2026 Winter Games Day 4: Ski Jumping",
-      "completions": 843,
+      "completions": 860,
       "completionsOnReleaseDay": 453
     },
     "2026-02-10T00:00:00.000Z": {
       "challengeNumber": 184,
       "title": "2026 Winter Games Day 5: Cross-Country Skiing",
-      "completions": 599,
+      "completions": 610,
       "completionsOnReleaseDay": 291
     },
     "2026-02-11T00:00:00.000Z": {
       "challengeNumber": 185,
       "title": "2026 Winter Games Day 6: Figure Skating",
-      "completions": 781,
+      "completions": 798,
       "completionsOnReleaseDay": 424
     },
     "2026-02-12T00:00:00.000Z": {
       "challengeNumber": 186,
       "title": "2026 Winter Games Day 7: Speed Skating",
-      "completions": 726,
-      "completionsOnReleaseDay": 408
+      "completions": 742,
+      "completionsOnReleaseDay": 407
     },
     "2026-02-13T00:00:00.000Z": {
       "challengeNumber": 187,
       "title": "2026 Winter Games Day 8: Luge",
-      "completions": 687,
+      "completions": 703,
       "completionsOnReleaseDay": 386
     },
     "2026-02-14T00:00:00.000Z": {
       "challengeNumber": 188,
       "title": "2026 Winter Games Day 9: Skeleton",
-      "completions": 612,
+      "completions": 627,
       "completionsOnReleaseDay": 266
     },
     "2026-02-15T00:00:00.000Z": {
       "challengeNumber": 189,
       "title": "2026 Winter Games Day 10: Alpine Skiing",
-      "completions": 680,
+      "completions": 697,
       "completionsOnReleaseDay": 359
     },
     "2026-02-16T00:00:00.000Z": {
       "challengeNumber": 190,
       "title": "2026 Winter Games Day 11: Ice Hockey",
-      "completions": 554,
+      "completions": 569,
       "completionsOnReleaseDay": 300
     },
     "2026-02-17T00:00:00.000Z": {
       "challengeNumber": 191,
       "title": "2026 Winter Games Day 12: Bobsled",
-      "completions": 626,
+      "completions": 642,
       "completionsOnReleaseDay": 350
     },
     "2026-02-18T00:00:00.000Z": {
       "challengeNumber": 192,
       "title": "2026 Winter Games Day 13: Nordic Combined",
-      "completions": 657,
+      "completions": 673,
       "completionsOnReleaseDay": 395
     },
     "2026-02-19T00:00:00.000Z": {
       "challengeNumber": 193,
       "title": "2026 Winter Games Day 14: Ski Mountaineering",
-      "completions": 739,
+      "completions": 754,
       "completionsOnReleaseDay": 467
     },
     "2026-02-20T00:00:00.000Z": {
       "challengeNumber": 194,
       "title": "2026 Winter Games Day 15: Freestyle Skiing",
-      "completions": 686,
+      "completions": 700,
       "completionsOnReleaseDay": 423
     },
     "2026-02-21T00:00:00.000Z": {
       "challengeNumber": 195,
       "title": "2026 Winter Games Day 16: Curling",
-      "completions": 334,
+      "completions": 345,
       "completionsOnReleaseDay": 139
     },
     "2026-02-22T00:00:00.000Z": {
       "challengeNumber": 196,
       "title": "2026 Winter Games Day 17: Closing Day",
-      "completions": 401,
+      "completions": 410,
       "completionsOnReleaseDay": 164
     },
     "2026-02-23T00:00:00.000Z": {
       "challengeNumber": 197,
       "title": "Blood Type Compatibility",
-      "completions": 650,
+      "completions": 663,
       "completionsOnReleaseDay": 344
     },
     "2026-02-24T00:00:00.000Z": {
       "challengeNumber": 198,
       "title": "Business Day Count",
-      "completions": 495,
+      "completions": 503,
       "completionsOnReleaseDay": 269
     },
     "2026-02-25T00:00:00.000Z": {
       "challengeNumber": 199,
       "title": "Sequential Difference",
-      "completions": 689,
+      "completions": 699,
       "completionsOnReleaseDay": 415
     },
     "2026-02-26T00:00:00.000Z": {
       "challengeNumber": 200,
       "title": "Letter and Number Count",
-      "completions": 690,
+      "completions": 713,
       "completionsOnReleaseDay": 396
     },
     "2026-02-27T00:00:00.000Z": {
       "challengeNumber": 201,
       "title": "Matrix Shift",
-      "completions": 407,
+      "completions": 415,
       "completionsOnReleaseDay": 216
     },
     "2026-02-28T00:00:00.000Z": {
       "challengeNumber": 202,
       "title": "Add Punctuation",
-      "completions": 536,
+      "completions": 551,
       "completionsOnReleaseDay": 251
     },
     "2026-03-01T00:00:00.000Z": {
       "challengeNumber": 203,
       "title": "Flattened",
-      "completions": 1204,
+      "completions": 1244,
       "completionsOnReleaseDay": 349
     },
     "2026-03-02T00:00:00.000Z": {
       "challengeNumber": 204,
       "title": "Sum the Letters",
-      "completions": 1134,
+      "completions": 1173,
       "completionsOnReleaseDay": 435
     },
     "2026-03-03T00:00:00.000Z": {
       "challengeNumber": 205,
       "title": "Perfect Cube Count",
-      "completions": 802,
+      "completions": 829,
       "completionsOnReleaseDay": 342
     },
     "2026-03-04T00:00:00.000Z": {
       "challengeNumber": 206,
       "title": "Playing Card Values",
-      "completions": 828,
+      "completions": 854,
       "completionsOnReleaseDay": 382
     },
     "2026-03-05T00:00:00.000Z": {
       "challengeNumber": 207,
       "title": "Smallest Gap",
-      "completions": 560,
+      "completions": 575,
       "completionsOnReleaseDay": 255
     },
     "2026-03-06T00:00:00.000Z": {
       "challengeNumber": 208,
       "title": "Trail Traversal",
-      "completions": 406,
+      "completions": 415,
       "completionsOnReleaseDay": 160
     },
     "2026-03-07T00:00:00.000Z": {
       "challengeNumber": 209,
       "title": "Element Size",
-      "completions": 662,
+      "completions": 683,
       "completionsOnReleaseDay": 256
     },
     "2026-03-08T00:00:00.000Z": {
       "challengeNumber": 210,
       "title": "HSL Validator",
-      "completions": 525,
+      "completions": 543,
       "completionsOnReleaseDay": 201
     },
     "2026-03-09T00:00:00.000Z": {
       "challengeNumber": 211,
       "title": "Array Sum",
-      "completions": 1079,
+      "completions": 1117,
       "completionsOnReleaseDay": 555
     },
     "2026-03-10T00:00:00.000Z": {
       "challengeNumber": 212,
       "title": "Array Insertion",
-      "completions": 887,
+      "completions": 921,
       "completionsOnReleaseDay": 505
     },
     "2026-03-11T00:00:00.000Z": {
       "challengeNumber": 213,
       "title": "Word Length Converter",
-      "completions": 883,
+      "completions": 921,
       "completionsOnReleaseDay": 504
     },
     "2026-03-12T00:00:00.000Z": {
       "challengeNumber": 214,
       "title": "Domino Chain Validator",
-      "completions": 686,
+      "completions": 706,
       "completionsOnReleaseDay": 405
     },
     "2026-03-13T00:00:00.000Z": {
       "challengeNumber": 215,
       "title": "Parking Fee Calculator",
-      "completions": 568,
+      "completions": 588,
       "completionsOnReleaseDay": 299
     },
     "2026-03-14T00:00:00.000Z": {
       "challengeNumber": 216,
       "title": "Pi Day",
-      "completions": 545,
+      "completions": 568,
       "completionsOnReleaseDay": 235
     },
     "2026-03-15T00:00:00.000Z": {
       "challengeNumber": 217,
       "title": "Captured Chess Pieces",
-      "completions": 640,
+      "completions": 659,
       "completionsOnReleaseDay": 308
     },
     "2026-03-16T00:00:00.000Z": {
       "challengeNumber": 218,
       "title": "Evenly Divisible",
-      "completions": 1045,
+      "completions": 1081,
       "completionsOnReleaseDay": 670
     },
     "2026-03-17T00:00:00.000Z": {
       "challengeNumber": 219,
       "title": "Anniversary Milestones",
-      "completions": 820,
+      "completions": 841,
       "completionsOnReleaseDay": 545
     },
     "2026-03-18T00:00:00.000Z": {
       "challengeNumber": 220,
       "title": "Largest Number",
-      "completions": 747,
+      "completions": 779,
       "completionsOnReleaseDay": 471
     },
     "2026-03-19T00:00:00.000Z": {
       "challengeNumber": 221,
       "title": "Inverted Matrix",
-      "completions": 573,
+      "completions": 595,
       "completionsOnReleaseDay": 364
     },
     "2026-03-20T00:00:00.000Z": {
       "challengeNumber": 222,
       "title": "Equinox Shadows",
-      "completions": 486,
+      "completions": 504,
       "completionsOnReleaseDay": 307
     },
     "2026-03-21T00:00:00.000Z": {
       "challengeNumber": 223,
       "title": "QR Decoder",
-      "completions": 304,
+      "completions": 323,
       "completionsOnReleaseDay": 132
     },
     "2026-03-22T00:00:00.000Z": {
       "challengeNumber": 224,
       "title": "Coffee Roast Detector",
-      "completions": 658,
+      "completions": 698,
       "completionsOnReleaseDay": 309
     },
     "2026-03-23T00:00:00.000Z": {
       "challengeNumber": 225,
       "title": "No Consecutive Repeats",
-      "completions": 746,
+      "completions": 779,
       "completionsOnReleaseDay": 466
     },
     "2026-03-24T00:00:00.000Z": {
       "challengeNumber": 226,
       "title": "Passing Exam Count",
-      "completions": 901,
+      "completions": 949,
       "completionsOnReleaseDay": 627
     },
     "2026-03-25T00:00:00.000Z": {
       "challengeNumber": 227,
       "title": "Cooldown Time",
-      "completions": 574,
+      "completions": 599,
       "completionsOnReleaseDay": 387
     },
     "2026-03-26T00:00:00.000Z": {
       "challengeNumber": 228,
       "title": "Movie Night",
-      "completions": 551,
+      "completions": 583,
       "completionsOnReleaseDay": 356
     },
     "2026-03-27T00:00:00.000Z": {
       "challengeNumber": 229,
       "title": "Truncate the Text 2",
-      "completions": 356,
+      "completions": 389,
       "completionsOnReleaseDay": 187
     },
     "2026-03-28T00:00:00.000Z": {
       "challengeNumber": 230,
       "title": "Pascal's Triangle Row",
-      "completions": 410,
+      "completions": 438,
       "completionsOnReleaseDay": 239
     },
     "2026-03-29T00:00:00.000Z": {
       "challengeNumber": 231,
       "title": "ISBN-10 Validator",
-      "completions": 476,
+      "completions": 512,
       "completionsOnReleaseDay": 281
     },
     "2026-03-30T00:00:00.000Z": {
       "challengeNumber": 232,
       "title": "Due Date",
-      "completions": 441,
+      "completions": 469,
       "completionsOnReleaseDay": 281
     },
     "2026-03-31T00:00:00.000Z": {
       "challengeNumber": 233,
       "title": "Wake-Up Alarm",
-      "completions": 553,
+      "completions": 594,
       "completionsOnReleaseDay": 393
     },
     "2026-04-01T00:00:00.000Z": {
       "challengeNumber": 234,
       "title": "Prank Number",
-      "completions": 412,
+      "completions": 583,
       "completionsOnReleaseDay": 221
     },
     "2026-04-02T00:00:00.000Z": {
       "challengeNumber": 235,
       "title": "Capitalized Fibonacci",
-      "completions": 483,
+      "completions": 625,
       "completionsOnReleaseDay": 308
     },
     "2026-04-03T00:00:00.000Z": {
       "challengeNumber": 236,
       "title": "Browser History",
-      "completions": 318,
+      "completions": 416,
       "completionsOnReleaseDay": 176
     },
     "2026-04-04T00:00:00.000Z": {
       "challengeNumber": 237,
       "title": "Equation Validation",
-      "completions": 392,
+      "completions": 505,
       "completionsOnReleaseDay": 216
     },
     "2026-04-05T00:00:00.000Z": {
       "challengeNumber": 238,
       "title": "Digit Rotation Escape",
-      "completions": 386,
+      "completions": 510,
       "completionsOnReleaseDay": 217
     },
     "2026-04-06T00:00:00.000Z": {
       "challengeNumber": 239,
       "title": "What Day Is It?",
-      "completions": 472,
+      "completions": 624,
       "completionsOnReleaseDay": 343
     },
     "2026-04-07T00:00:00.000Z": {
       "challengeNumber": 240,
       "title": "Palindrome Characters",
-      "completions": 511,
+      "completions": 737,
       "completionsOnReleaseDay": 413
     },
     "2026-04-08T00:00:00.000Z": {
       "challengeNumber": 241,
       "title": "FizzBuzz Validator",
-      "completions": 279,
+      "completions": 489,
       "completionsOnReleaseDay": 258
+    },
+    "2026-04-09T00:00:00.000Z": {
+      "challengeNumber": 242,
+      "title": "Next Bingo Number",
+      "completions": 656,
+      "completionsOnReleaseDay": 366
+    },
+    "2026-04-10T00:00:00.000Z": {
+      "challengeNumber": 243,
+      "title": "Rook Attack",
+      "completions": 648,
+      "completionsOnReleaseDay": 418
+    },
+    "2026-04-11T00:00:00.000Z": {
+      "challengeNumber": 244,
+      "title": "Rook and Bishop Attack",
+      "completions": 445,
+      "completionsOnReleaseDay": 234
+    },
+    "2026-04-12T00:00:00.000Z": {
+      "challengeNumber": 245,
+      "title": "Spiral Matrix",
+      "completions": 361,
+      "completionsOnReleaseDay": 157
+    },
+    "2026-04-13T00:00:00.000Z": {
+      "challengeNumber": 246,
+      "title": "Name Initials",
+      "completions": 817,
+      "completionsOnReleaseDay": 497
+    },
+    "2026-04-14T00:00:00.000Z": {
+      "challengeNumber": 247,
+      "title": "Last Letter",
+      "completions": 634,
+      "completionsOnReleaseDay": 381
+    },
+    "2026-04-15T00:00:00.000Z": {
+      "challengeNumber": 248,
+      "title": "Sorted Array Swap",
+      "completions": 568,
+      "completionsOnReleaseDay": 360
+    },
+    "2026-04-16T00:00:00.000Z": {
+      "challengeNumber": 249,
+      "title": "String Math",
+      "completions": 411,
+      "completionsOnReleaseDay": 232
+    },
+    "2026-04-17T00:00:00.000Z": {
+      "challengeNumber": 250,
+      "title": "Hidden Key",
+      "completions": 261,
+      "completionsOnReleaseDay": 164
+    },
+    "2026-04-18T00:00:00.000Z": {
+      "challengeNumber": 251,
+      "title": "Array Sum Finder",
+      "completions": 253,
+      "completionsOnReleaseDay": 110
+    },
+    "2026-04-19T00:00:00.000Z": {
+      "challengeNumber": 252,
+      "title": "Unique Stair Climber",
+      "completions": 373,
+      "completionsOnReleaseDay": 191
+    },
+    "2026-04-20T00:00:00.000Z": {
+      "challengeNumber": 253,
+      "title": "Acronym Finder",
+      "completions": 615,
+      "completionsOnReleaseDay": 384
+    },
+    "2026-04-21T00:00:00.000Z": {
+      "challengeNumber": 254,
+      "title": "Odd Words",
+      "completions": 639,
+      "completionsOnReleaseDay": 416
+    },
+    "2026-04-22T00:00:00.000Z": {
+      "challengeNumber": 255,
+      "title": "Earth Day Cleanup Crew",
+      "completions": 392,
+      "completionsOnReleaseDay": 226
+    },
+    "2026-04-23T00:00:00.000Z": {
+      "challengeNumber": 256,
+      "title": "Closest Time Direction",
+      "completions": 405,
+      "completionsOnReleaseDay": 263
+    },
+    "2026-04-24T00:00:00.000Z": {
+      "challengeNumber": 257,
+      "title": "Word Compressor",
+      "completions": 463,
+      "completionsOnReleaseDay": 306
+    },
+    "2026-04-25T00:00:00.000Z": {
+      "challengeNumber": 258,
+      "title": "Word Decompressor",
+      "completions": 417,
+      "completionsOnReleaseDay": 222
+    },
+    "2026-04-26T00:00:00.000Z": {
+      "challengeNumber": 259,
+      "title": "FizzBuzz Explosion",
+      "completions": 308,
+      "completionsOnReleaseDay": 170
+    },
+    "2026-04-27T00:00:00.000Z": {
+      "challengeNumber": 260,
+      "title": "Word Score",
+      "completions": 634,
+      "completionsOnReleaseDay": 433
+    },
+    "2026-04-28T00:00:00.000Z": {
+      "challengeNumber": 261,
+      "title": "Number Words",
+      "completions": 510,
+      "completionsOnReleaseDay": 365
+    },
+    "2026-04-29T00:00:00.000Z": {
+      "challengeNumber": 262,
+      "title": "URL Query Parser",
+      "completions": 483,
+      "completionsOnReleaseDay": 353
+    },
+    "2026-04-30T00:00:00.000Z": {
+      "challengeNumber": 263,
+      "title": "Binary Crossword",
+      "completions": 333,
+      "completionsOnReleaseDay": 250
+    },
+    "2026-05-01T00:00:00.000Z": {
+      "challengeNumber": 264,
+      "title": "Anagram Groups",
+      "completions": 437,
+      "completionsOnReleaseDay": 250
+    },
+    "2026-05-02T00:00:00.000Z": {
+      "challengeNumber": 265,
+      "title": "Deepest Brackets",
+      "completions": 321,
+      "completionsOnReleaseDay": 156
+    },
+    "2026-05-03T00:00:00.000Z": {
+      "challengeNumber": 266,
+      "title": "Good Day",
+      "completions": 563,
+      "completionsOnReleaseDay": 321
+    },
+    "2026-05-04T00:00:00.000Z": {
+      "challengeNumber": 267,
+      "title": "Parsec Converter",
+      "completions": 613,
+      "completionsOnReleaseDay": 446
+    },
+    "2026-05-05T00:00:00.000Z": {
+      "challengeNumber": 268,
+      "title": "Narcissistic Number",
+      "completions": 574,
+      "completionsOnReleaseDay": 469
+    },
+    "2026-05-06T00:00:00.000Z": {
+      "challengeNumber": 269,
+      "title": "Allergen Friendly Meals",
+      "completions": 294,
+      "completionsOnReleaseDay": 294
     }
   },
   "weekdayCompletions": {
     "monday": {
-      "total": 36158,
-      "onReleaseDay": 16288
+      "total": 39813,
+      "onReleaseDay": 18048
     },
     "tuesday": {
-      "total": 34931,
-      "onReleaseDay": 15114
+      "total": 38573,
+      "onReleaseDay": 16744
     },
     "wednesday": {
-      "total": 31032,
-      "onReleaseDay": 13228
+      "total": 34220,
+      "onReleaseDay": 14461
     },
     "thursday": {
-      "total": 28878,
-      "onReleaseDay": 12972
+      "total": 31623,
+      "onReleaseDay": 14082
     },
     "friday": {
-      "total": 27774,
-      "onReleaseDay": 11918
+      "total": 30349,
+      "onReleaseDay": 13055
     },
     "saturday": {
-      "total": 22512,
-      "onReleaseDay": 9811
+      "total": 24469,
+      "onReleaseDay": 10533
     },
     "sunday": {
-      "total": 22624,
-      "onReleaseDay": 9719
+      "total": 24557,
+      "onReleaseDay": 10558
     }
   },
-  "languageCompletionsTotal": 220865,
-  "languageCompletionsJavascript": 108356,
-  "languageCompletionsPython": 112509,
-  "languageCompletionsBoth": 16956,
+  "languageCompletionsTotal": 242348,
+  "languageCompletionsJavascript": 118274,
+  "languageCompletionsPython": 124074,
+  "languageCompletionsBoth": 18744,
   "languageCompletions": {
     "2025-08-11T00:00:00.000Z": {
       "challengeNumber": 1,
       "title": "Vowel Balance",
-      "total": 2163,
-      "javascript": 1124,
-      "python": 1039,
-      "both": 123
+      "total": 2242,
+      "javascript": 1162,
+      "python": 1080,
+      "both": 131
     },
     "2025-08-12T00:00:00.000Z": {
       "challengeNumber": 2,
       "title": "Base Check",
-      "total": 1369,
-      "javascript": 704,
-      "python": 665,
-      "both": 84
+      "total": 1424,
+      "javascript": 728,
+      "python": 696,
+      "both": 90
     },
     "2025-08-13T00:00:00.000Z": {
       "challengeNumber": 3,
       "title": "Fibonacci Sequence",
-      "total": 1321,
-      "javascript": 688,
-      "python": 633,
-      "both": 78
+      "total": 1374,
+      "javascript": 711,
+      "python": 663,
+      "both": 84
     },
     "2025-08-14T00:00:00.000Z": {
       "challengeNumber": 4,
       "title": "S  P  A  C  E  J  A  M",
-      "total": 1331,
-      "javascript": 702,
-      "python": 629,
-      "both": 81
+      "total": 1391,
+      "javascript": 727,
+      "python": 664,
+      "both": 87
     },
     "2025-08-15T00:00:00.000Z": {
       "challengeNumber": 5,
       "title": "Jbelmud Text",
-      "total": 1252,
-      "javascript": 669,
-      "python": 583,
-      "both": 74
+      "total": 1302,
+      "javascript": 692,
+      "python": 610,
+      "both": 79
     },
     "2025-08-16T00:00:00.000Z": {
       "challengeNumber": 6,
       "title": "Anagram Checker",
-      "total": 1399,
-      "javascript": 746,
-      "python": 653,
-      "both": 72
+      "total": 1455,
+      "javascript": 769,
+      "python": 686,
+      "both": 77
     },
     "2025-08-17T00:00:00.000Z": {
       "challengeNumber": 7,
       "title": "Targeted Sum",
-      "total": 1318,
-      "javascript": 726,
-      "python": 592,
-      "both": 62
+      "total": 1368,
+      "javascript": 744,
+      "python": 624,
+      "both": 66
     },
     "2025-08-18T00:00:00.000Z": {
       "challengeNumber": 8,
       "title": "Factorializer",
-      "total": 1801,
-      "javascript": 983,
-      "python": 818,
-      "both": 82
+      "total": 1849,
+      "javascript": 999,
+      "python": 850,
+      "both": 86
     },
     "2025-08-19T00:00:00.000Z": {
       "challengeNumber": 9,
       "title": "Sum of Squares",
-      "total": 1769,
-      "javascript": 974,
-      "python": 795,
-      "both": 79
+      "total": 1820,
+      "javascript": 992,
+      "python": 828,
+      "both": 83
     },
     "2025-08-20T00:00:00.000Z": {
       "challengeNumber": 10,
       "title": "3 Strikes",
-      "total": 1408,
-      "javascript": 745,
-      "python": 663,
-      "both": 67
+      "total": 1454,
+      "javascript": 758,
+      "python": 696,
+      "both": 71
     },
     "2025-08-21T00:00:00.000Z": {
       "challengeNumber": 11,
       "title": "Mile Pace",
-      "total": 1147,
-      "javascript": 620,
-      "python": 527,
-      "both": 56
+      "total": 1179,
+      "javascript": 631,
+      "python": 548,
+      "both": 60
     },
     "2025-08-22T00:00:00.000Z": {
       "challengeNumber": 12,
       "title": "Message Decoder",
-      "total": 920,
-      "javascript": 474,
-      "python": 446,
-      "both": 55
+      "total": 945,
+      "javascript": 483,
+      "python": 462,
+      "both": 58
     },
     "2025-08-23T00:00:00.000Z": {
       "challengeNumber": 13,
       "title": "Unnatural Prime",
-      "total": 1021,
-      "javascript": 530,
-      "python": 491,
-      "both": 55
+      "total": 1051,
+      "javascript": 541,
+      "python": 510,
+      "both": 58
     },
     "2025-08-24T00:00:00.000Z": {
       "challengeNumber": 14,
       "title": "Character Battle",
-      "total": 845,
-      "javascript": 434,
-      "python": 411,
-      "both": 51
+      "total": 875,
+      "javascript": 446,
+      "python": 429,
+      "both": 55
     },
     "2025-08-25T00:00:00.000Z": {
       "challengeNumber": 15,
       "title": "camelCase",
-      "total": 995,
-      "javascript": 547,
-      "python": 448,
-      "both": 59
+      "total": 1029,
+      "javascript": 564,
+      "python": 465,
+      "both": 62
     },
     "2025-08-26T00:00:00.000Z": {
       "challengeNumber": 16,
       "title": "Reverse Parenthesis",
-      "total": 648,
-      "javascript": 350,
-      "python": 298,
-      "both": 46
+      "total": 669,
+      "javascript": 358,
+      "python": 311,
+      "both": 48
     },
     "2025-08-27T00:00:00.000Z": {
       "challengeNumber": 17,
       "title": "Unorder of Operations",
-      "total": 825,
-      "javascript": 440,
-      "python": 385,
-      "both": 49
+      "total": 845,
+      "javascript": 449,
+      "python": 396,
+      "both": 51
     },
     "2025-08-28T00:00:00.000Z": {
       "challengeNumber": 18,
       "title": "Second Best",
-      "total": 807,
-      "javascript": 417,
-      "python": 390,
-      "both": 48
+      "total": 836,
+      "javascript": 433,
+      "python": 403,
+      "both": 51
     },
     "2025-08-29T00:00:00.000Z": {
       "challengeNumber": 19,
       "title": "Candlelight",
-      "total": 775,
-      "javascript": 400,
-      "python": 375,
-      "both": 47
+      "total": 797,
+      "javascript": 410,
+      "python": 387,
+      "both": 50
     },
     "2025-08-30T00:00:00.000Z": {
       "challengeNumber": 20,
       "title": "Array Duplicates",
-      "total": 883,
-      "javascript": 452,
-      "python": 431,
-      "both": 51
+      "total": 914,
+      "javascript": 468,
+      "python": 446,
+      "both": 55
     },
     "2025-08-31T00:00:00.000Z": {
       "challengeNumber": 21,
       "title": "Hex Generator",
-      "total": 710,
-      "javascript": 379,
-      "python": 331,
-      "both": 48
+      "total": 733,
+      "javascript": 391,
+      "python": 342,
+      "both": 51
     },
     "2025-09-01T00:00:00.000Z": {
       "challengeNumber": 22,
       "title": "Tribonacci Sequence",
-      "total": 1751,
-      "javascript": 912,
-      "python": 839,
-      "both": 56
+      "total": 1775,
+      "javascript": 921,
+      "python": 854,
+      "both": 59
     },
     "2025-09-02T00:00:00.000Z": {
       "challengeNumber": 23,
       "title": "RGB to Hex",
-      "total": 1297,
-      "javascript": 704,
-      "python": 593,
-      "both": 48
+      "total": 1319,
+      "javascript": 714,
+      "python": 605,
+      "both": 49
     },
     "2025-09-03T00:00:00.000Z": {
       "challengeNumber": 24,
       "title": "Pangram",
-      "total": 1262,
-      "javascript": 627,
-      "python": 635,
-      "both": 53
+      "total": 1286,
+      "javascript": 636,
+      "python": 650,
+      "both": 55
     },
     "2025-09-04T00:00:00.000Z": {
       "challengeNumber": 25,
       "title": "Vowel Repeater",
-      "total": 1139,
-      "javascript": 580,
-      "python": 559,
-      "both": 52
+      "total": 1169,
+      "javascript": 592,
+      "python": 577,
+      "both": 57
     },
     "2025-09-05T00:00:00.000Z": {
       "challengeNumber": 26,
       "title": "IPv4 Validator",
-      "total": 1178,
-      "javascript": 622,
-      "python": 556,
-      "both": 45
+      "total": 1201,
+      "javascript": 630,
+      "python": 571,
+      "both": 48
     },
     "2025-09-06T00:00:00.000Z": {
       "challengeNumber": 27,
       "title": "Matrix Rotate",
-      "total": 965,
-      "javascript": 504,
-      "python": 461,
-      "both": 42
+      "total": 986,
+      "javascript": 511,
+      "python": 475,
+      "both": 44
     },
     "2025-09-07T00:00:00.000Z": {
       "challengeNumber": 28,
       "title": "Roman Numeral Parser",
-      "total": 1047,
-      "javascript": 533,
-      "python": 514,
-      "both": 44
+      "total": 1066,
+      "javascript": 541,
+      "python": 525,
+      "both": 46
     },
     "2025-09-08T00:00:00.000Z": {
       "challengeNumber": 29,
       "title": "Acronym Builder",
-      "total": 1260,
-      "javascript": 643,
-      "python": 617,
-      "both": 44
+      "total": 1283,
+      "javascript": 651,
+      "python": 632,
+      "both": 47
     },
     "2025-09-09T00:00:00.000Z": {
       "challengeNumber": 30,
       "title": "Unique Characters",
-      "total": 1390,
-      "javascript": 722,
-      "python": 668,
-      "both": 56
+      "total": 1421,
+      "javascript": 736,
+      "python": 685,
+      "both": 60
     },
     "2025-09-10T00:00:00.000Z": {
       "challengeNumber": 31,
       "title": "Array Diff",
-      "total": 1301,
-      "javascript": 672,
-      "python": 629,
-      "both": 53
+      "total": 1328,
+      "javascript": 684,
+      "python": 644,
+      "both": 56
     },
     "2025-09-11T00:00:00.000Z": {
       "challengeNumber": 32,
       "title": "Reverse Sentence",
-      "total": 1351,
-      "javascript": 693,
-      "python": 658,
-      "both": 46
+      "total": 1380,
+      "javascript": 706,
+      "python": 674,
+      "both": 49
     },
     "2025-09-12T00:00:00.000Z": {
       "challengeNumber": 33,
       "title": "Screen Time",
-      "total": 1266,
-      "javascript": 645,
-      "python": 621,
-      "both": 45
+      "total": 1291,
+      "javascript": 656,
+      "python": 635,
+      "both": 48
     },
     "2025-09-13T00:00:00.000Z": {
       "challengeNumber": 34,
       "title": "Missing Numbers",
-      "total": 1241,
-      "javascript": 631,
-      "python": 610,
-      "both": 51
+      "total": 1265,
+      "javascript": 641,
+      "python": 624,
+      "both": 53
     },
     "2025-09-14T00:00:00.000Z": {
       "challengeNumber": 35,
       "title": "Word Frequency",
-      "total": 941,
-      "javascript": 471,
-      "python": 470,
-      "both": 41
+      "total": 963,
+      "javascript": 478,
+      "python": 485,
+      "both": 43
     },
     "2025-09-15T00:00:00.000Z": {
       "challengeNumber": 36,
       "title": "Thermostat Adjuster",
-      "total": 1623,
-      "javascript": 868,
-      "python": 755,
-      "both": 58
+      "total": 1646,
+      "javascript": 878,
+      "python": 768,
+      "both": 60
     },
     "2025-09-16T00:00:00.000Z": {
       "challengeNumber": 37,
       "title": "Sentence Capitalizer",
-      "total": 919,
-      "javascript": 485,
-      "python": 434,
-      "both": 38
+      "total": 942,
+      "javascript": 495,
+      "python": 447,
+      "both": 41
     },
     "2025-09-17T00:00:00.000Z": {
       "challengeNumber": 38,
       "title": "Slug Generator",
-      "total": 1045,
-      "javascript": 566,
-      "python": 479,
-      "both": 41
+      "total": 1068,
+      "javascript": 576,
+      "python": 492,
+      "both": 43
     },
     "2025-09-18T00:00:00.000Z": {
       "challengeNumber": 39,
       "title": "Fill The Tank",
-      "total": 1335,
-      "javascript": 739,
-      "python": 596,
-      "both": 41
+      "total": 1363,
+      "javascript": 750,
+      "python": 613,
+      "both": 43
     },
     "2025-09-19T00:00:00.000Z": {
       "challengeNumber": 40,
       "title": "Photo Storage",
-      "total": 1352,
-      "javascript": 695,
-      "python": 657,
-      "both": 52
+      "total": 1379,
+      "javascript": 707,
+      "python": 672,
+      "both": 54
     },
     "2025-09-20T00:00:00.000Z": {
       "challengeNumber": 41,
       "title": "File Storage",
-      "total": 1061,
-      "javascript": 546,
-      "python": 515,
-      "both": 44
+      "total": 1086,
+      "javascript": 558,
+      "python": 528,
+      "both": 46
     },
     "2025-09-21T00:00:00.000Z": {
       "challengeNumber": 42,
       "title": "Video Storage",
-      "total": 969,
-      "javascript": 490,
-      "python": 479,
-      "both": 39
+      "total": 995,
+      "javascript": 503,
+      "python": 492,
+      "both": 41
     },
     "2025-09-22T00:00:00.000Z": {
       "challengeNumber": 43,
       "title": "Digits vs Letters",
-      "total": 1270,
-      "javascript": 654,
-      "python": 616,
-      "both": 45
+      "total": 1306,
+      "javascript": 672,
+      "python": 634,
+      "both": 49
     },
     "2025-09-23T00:00:00.000Z": {
       "challengeNumber": 44,
       "title": "String Mirror",
-      "total": 1184,
-      "javascript": 618,
-      "python": 566,
-      "both": 37
+      "total": 1215,
+      "javascript": 633,
+      "python": 582,
+      "both": 40
     },
     "2025-09-24T00:00:00.000Z": {
       "challengeNumber": 45,
       "title": "Perfect Square",
-      "total": 1330,
-      "javascript": 692,
-      "python": 638,
-      "both": 47
+      "total": 1354,
+      "javascript": 703,
+      "python": 651,
+      "both": 49
     },
     "2025-09-25T00:00:00.000Z": {
       "challengeNumber": 46,
       "title": "2nd Largest",
-      "total": 1244,
-      "javascript": 630,
-      "python": 614,
-      "both": 46
+      "total": 1272,
+      "javascript": 642,
+      "python": 630,
+      "both": 48
     },
     "2025-09-26T00:00:00.000Z": {
       "challengeNumber": 47,
       "title": "Caught Speeding",
-      "total": 1167,
-      "javascript": 592,
-      "python": 575,
-      "both": 39
+      "total": 1193,
+      "javascript": 604,
+      "python": 589,
+      "both": 41
     },
     "2025-09-27T00:00:00.000Z": {
       "challengeNumber": 48,
       "title": "Spam Detector",
-      "total": 780,
-      "javascript": 381,
-      "python": 399,
-      "both": 37
+      "total": 806,
+      "javascript": 392,
+      "python": 414,
+      "both": 39
     },
     "2025-09-28T00:00:00.000Z": {
       "challengeNumber": 49,
       "title": "CSV Header Parser",
-      "total": 1064,
-      "javascript": 566,
-      "python": 498,
-      "both": 50
+      "total": 1092,
+      "javascript": 578,
+      "python": 514,
+      "both": 52
     },
     "2025-09-29T00:00:00.000Z": {
       "challengeNumber": 50,
       "title": "Longest Word",
-      "total": 1195,
-      "javascript": 600,
-      "python": 595,
-      "both": 45
+      "total": 1228,
+      "javascript": 614,
+      "python": 614,
+      "both": 49
     },
     "2025-09-30T00:00:00.000Z": {
       "challengeNumber": 51,
       "title": "Phone Number Formatter",
-      "total": 1183,
-      "javascript": 596,
-      "python": 587,
-      "both": 45
+      "total": 1208,
+      "javascript": 606,
+      "python": 602,
+      "both": 47
     },
     "2025-10-01T00:00:00.000Z": {
       "challengeNumber": 52,
       "title": "Binary to Decimal",
-      "total": 2180,
-      "javascript": 1095,
-      "python": 1085,
-      "both": 55
+      "total": 2205,
+      "javascript": 1109,
+      "python": 1096,
+      "both": 57
     },
     "2025-10-02T00:00:00.000Z": {
       "challengeNumber": 53,
       "title": "Decimal to Binary",
-      "total": 1796,
-      "javascript": 883,
-      "python": 913,
-      "both": 50
+      "total": 1819,
+      "javascript": 896,
+      "python": 923,
+      "both": 52
     },
     "2025-10-03T00:00:00.000Z": {
       "challengeNumber": 54,
       "title": "P@ssw0rd Str3ngth!",
-      "total": 1541,
-      "javascript": 771,
-      "python": 770,
-      "both": 47
+      "total": 1563,
+      "javascript": 782,
+      "python": 781,
+      "both": 49
     },
     "2025-10-04T00:00:00.000Z": {
       "challengeNumber": 55,
       "title": "Space Week Day 1: Stellar Classification",
-      "total": 1616,
-      "javascript": 806,
-      "python": 810,
-      "both": 46
+      "total": 1636,
+      "javascript": 817,
+      "python": 819,
+      "both": 47
     },
     "2025-10-05T00:00:00.000Z": {
       "challengeNumber": 56,
       "title": "Space Week Day 2: Exoplanet Search",
-      "total": 1151,
-      "javascript": 562,
-      "python": 589,
-      "both": 42
+      "total": 1170,
+      "javascript": 572,
+      "python": 598,
+      "both": 43
     },
     "2025-10-06T00:00:00.000Z": {
       "challengeNumber": 57,
       "title": "Space Week Day 3: Phone Home",
-      "total": 1131,
-      "javascript": 563,
-      "python": 568,
-      "both": 39
+      "total": 1151,
+      "javascript": 574,
+      "python": 577,
+      "both": 40
     },
     "2025-10-07T00:00:00.000Z": {
       "challengeNumber": 58,
       "title": "Space Week Day 4: Landing Spot",
-      "total": 813,
-      "javascript": 393,
-      "python": 420,
-      "both": 32
+      "total": 830,
+      "javascript": 401,
+      "python": 429,
+      "both": 33
     },
     "2025-10-08T00:00:00.000Z": {
       "challengeNumber": 59,
       "title": "Space Week Day 5: Goldilocks Zone",
-      "total": 1127,
-      "javascript": 566,
-      "python": 561,
-      "both": 44
+      "total": 1148,
+      "javascript": 578,
+      "python": 570,
+      "both": 45
     },
     "2025-10-09T00:00:00.000Z": {
       "challengeNumber": 60,
       "title": "Space Week Day 6: Moon Phase",
-      "total": 844,
-      "javascript": 418,
-      "python": 426,
-      "both": 34
+      "total": 859,
+      "javascript": 426,
+      "python": 433,
+      "both": 35
     },
     "2025-10-10T00:00:00.000Z": {
       "challengeNumber": 61,
       "title": "Space Week Day 7: Launch Fuel",
-      "total": 827,
-      "javascript": 393,
-      "python": 434,
-      "both": 36
+      "total": 845,
+      "javascript": 404,
+      "python": 441,
+      "both": 38
     },
     "2025-10-11T00:00:00.000Z": {
       "challengeNumber": 62,
       "title": "Hex to Decimal",
-      "total": 907,
-      "javascript": 444,
-      "python": 463,
-      "both": 37
+      "total": 930,
+      "javascript": 458,
+      "python": 472,
+      "both": 40
     },
     "2025-10-12T00:00:00.000Z": {
       "challengeNumber": 63,
       "title": "Battle of Words",
-      "total": 804,
-      "javascript": 393,
-      "python": 411,
-      "both": 37
+      "total": 824,
+      "javascript": 405,
+      "python": 419,
+      "both": 40
     },
     "2025-10-13T00:00:00.000Z": {
       "challengeNumber": 64,
       "title": "24 to 12",
-      "total": 1037,
-      "javascript": 513,
-      "python": 524,
-      "both": 44
+      "total": 1067,
+      "javascript": 529,
+      "python": 538,
+      "both": 47
     },
     "2025-10-14T00:00:00.000Z": {
       "challengeNumber": 65,
       "title": "String Count",
-      "total": 958,
-      "javascript": 463,
-      "python": 495,
-      "both": 39
+      "total": 976,
+      "javascript": 473,
+      "python": 503,
+      "both": 40
     },
     "2025-10-15T00:00:00.000Z": {
       "challengeNumber": 66,
       "title": "HTML Tag Stripper",
-      "total": 837,
-      "javascript": 428,
-      "python": 409,
-      "both": 34
+      "total": 855,
+      "javascript": 437,
+      "python": 418,
+      "both": 35
     },
     "2025-10-16T00:00:00.000Z": {
       "challengeNumber": 67,
       "title": "Email Validator",
-      "total": 745,
-      "javascript": 359,
-      "python": 386,
-      "both": 32
+      "total": 767,
+      "javascript": 369,
+      "python": 398,
+      "both": 34
     },
     "2025-10-17T00:00:00.000Z": {
       "challengeNumber": 68,
       "title": "Credit Card Masker",
-      "total": 960,
-      "javascript": 469,
-      "python": 491,
-      "both": 40
+      "total": 990,
+      "javascript": 483,
+      "python": 507,
+      "both": 44
     },
     "2025-10-18T00:00:00.000Z": {
       "challengeNumber": 69,
       "title": "Missing Socks",
-      "total": 788,
-      "javascript": 388,
-      "python": 400,
-      "both": 37
+      "total": 811,
+      "javascript": 398,
+      "python": 413,
+      "both": 38
     },
     "2025-10-19T00:00:00.000Z": {
       "challengeNumber": 70,
       "title": "HTML Attribute Extractor",
-      "total": 615,
-      "javascript": 314,
-      "python": 301,
-      "both": 34
+      "total": 631,
+      "javascript": 321,
+      "python": 310,
+      "both": 35
     },
     "2025-10-20T00:00:00.000Z": {
       "challengeNumber": 71,
       "title": "Tip Calculator",
-      "total": 918,
-      "javascript": 465,
-      "python": 453,
-      "both": 40
+      "total": 938,
+      "javascript": 474,
+      "python": 464,
+      "both": 41
     },
     "2025-10-21T00:00:00.000Z": {
       "challengeNumber": 72,
       "title": "Thermostat Adjuster 2",
-      "total": 909,
-      "javascript": 471,
-      "python": 438,
-      "both": 35
+      "total": 933,
+      "javascript": 483,
+      "python": 450,
+      "both": 36
     },
     "2025-10-22T00:00:00.000Z": {
       "challengeNumber": 73,
       "title": "Speak Wisely, You Must",
-      "total": 725,
-      "javascript": 361,
-      "python": 364,
-      "both": 36
+      "total": 746,
+      "javascript": 371,
+      "python": 375,
+      "both": 37
     },
     "2025-10-23T00:00:00.000Z": {
       "challengeNumber": 74,
       "title": "Favorite Songs",
-      "total": 826,
-      "javascript": 426,
-      "python": 400,
-      "both": 35
+      "total": 848,
+      "javascript": 436,
+      "python": 412,
+      "both": 37
     },
     "2025-10-24T00:00:00.000Z": {
       "challengeNumber": 75,
       "title": "Hidden Treasure",
-      "total": 651,
-      "javascript": 320,
-      "python": 331,
-      "both": 30
+      "total": 672,
+      "javascript": 328,
+      "python": 344,
+      "both": 32
     },
     "2025-10-25T00:00:00.000Z": {
       "challengeNumber": 76,
       "title": "Complementary DNA",
-      "total": 858,
-      "javascript": 423,
-      "python": 435,
-      "both": 42
+      "total": 878,
+      "javascript": 433,
+      "python": 445,
+      "both": 43
     },
     "2025-10-26T00:00:00.000Z": {
       "challengeNumber": 77,
       "title": "Duration Formatter",
-      "total": 784,
-      "javascript": 392,
-      "python": 392,
-      "both": 39
+      "total": 805,
+      "javascript": 403,
+      "python": 402,
+      "both": 40
     },
     "2025-10-27T00:00:00.000Z": {
       "challengeNumber": 78,
       "title": "Integer Sequence",
-      "total": 1118,
-      "javascript": 581,
-      "python": 537,
-      "both": 44
+      "total": 1141,
+      "javascript": 592,
+      "python": 549,
+      "both": 46
     },
     "2025-10-28T00:00:00.000Z": {
       "challengeNumber": 79,
       "title": "Navigator",
-      "total": 660,
-      "javascript": 342,
-      "python": 318,
-      "both": 31
+      "total": 677,
+      "javascript": 349,
+      "python": 328,
+      "both": 32
     },
     "2025-10-29T00:00:00.000Z": {
       "challengeNumber": 80,
       "title": "Email Sorter",
-      "total": 664,
-      "javascript": 339,
-      "python": 325,
-      "both": 37
+      "total": 680,
+      "javascript": 345,
+      "python": 335,
+      "both": 38
     },
     "2025-10-30T00:00:00.000Z": {
       "challengeNumber": 81,
       "title": "Nth Prime",
-      "total": 749,
-      "javascript": 362,
-      "python": 387,
-      "both": 38
+      "total": 766,
+      "javascript": 368,
+      "python": 398,
+      "both": 40
     },
     "2025-10-31T00:00:00.000Z": {
       "challengeNumber": 82,
       "title": "SpOoKy~CaSe",
-      "total": 794,
-      "javascript": 394,
-      "python": 400,
-      "both": 35
+      "total": 817,
+      "javascript": 406,
+      "python": 411,
+      "both": 37
     },
     "2025-11-01T00:00:00.000Z": {
       "challengeNumber": 83,
       "title": "Signature Validation",
-      "total": 1316,
-      "javascript": 675,
-      "python": 641,
+      "total": 1336,
+      "javascript": 686,
+      "python": 650,
       "both": 69
     },
     "2025-11-02T00:00:00.000Z": {
       "challengeNumber": 84,
       "title": "Infected",
-      "total": 1196,
-      "javascript": 597,
-      "python": 599,
-      "both": 59
+      "total": 1222,
+      "javascript": 611,
+      "python": 611,
+      "both": 61
     },
     "2025-11-03T00:00:00.000Z": {
       "challengeNumber": 85,
       "title": "Word Counter",
-      "total": 1592,
-      "javascript": 822,
-      "python": 770,
-      "both": 78
+      "total": 1624,
+      "javascript": 837,
+      "python": 787,
+      "both": 81
     },
     "2025-11-04T00:00:00.000Z": {
       "challengeNumber": 86,
       "title": "Image Search",
-      "total": 1223,
-      "javascript": 639,
-      "python": 584,
-      "both": 61
+      "total": 1244,
+      "javascript": 651,
+      "python": 593,
+      "both": 63
     },
     "2025-11-05T00:00:00.000Z": {
       "challengeNumber": 87,
       "title": "Matrix Builder",
-      "total": 1252,
-      "javascript": 651,
-      "python": 601,
-      "both": 65
+      "total": 1276,
+      "javascript": 664,
+      "python": 612,
+      "both": 68
     },
     "2025-11-06T00:00:00.000Z": {
       "challengeNumber": 88,
       "title": "Weekday Finder",
-      "total": 1069,
-      "javascript": 584,
-      "python": 485,
-      "both": 55
+      "total": 1089,
+      "javascript": 596,
+      "python": 493,
+      "both": 57
     },
     "2025-11-07T00:00:00.000Z": {
       "challengeNumber": 89,
       "title": "Counting Cards",
-      "total": 889,
-      "javascript": 411,
-      "python": 478,
-      "both": 48
+      "total": 907,
+      "javascript": 419,
+      "python": 488,
+      "both": 50
     },
     "2025-11-08T00:00:00.000Z": {
       "challengeNumber": 90,
       "title": "Character Limit",
-      "total": 1193,
-      "javascript": 620,
-      "python": 573,
-      "both": 60
+      "total": 1217,
+      "javascript": 633,
+      "python": 584,
+      "both": 63
     },
     "2025-11-09T00:00:00.000Z": {
       "challengeNumber": 91,
       "title": "Word Search",
-      "total": 550,
-      "javascript": 269,
-      "python": 281,
-      "both": 37
+      "total": 563,
+      "javascript": 277,
+      "python": 286,
+      "both": 38
     },
     "2025-11-10T00:00:00.000Z": {
       "challengeNumber": 92,
       "title": "Extension Extractor",
-      "total": 1072,
-      "javascript": 558,
-      "python": 514,
-      "both": 54
+      "total": 1091,
+      "javascript": 569,
+      "python": 522,
+      "both": 56
     },
     "2025-11-11T00:00:00.000Z": {
       "challengeNumber": 93,
       "title": "Vowels and Consonants",
-      "total": 1089,
-      "javascript": 557,
-      "python": 532,
-      "both": 55
+      "total": 1110,
+      "javascript": 568,
+      "python": 542,
+      "both": 58
     },
     "2025-11-12T00:00:00.000Z": {
       "challengeNumber": 94,
       "title": "Email Signature Generator",
-      "total": 964,
-      "javascript": 495,
-      "python": 469,
-      "both": 56
+      "total": 985,
+      "javascript": 508,
+      "python": 477,
+      "both": 58
     },
     "2025-11-13T00:00:00.000Z": {
       "challengeNumber": 95,
       "title": "Array Shift",
-      "total": 786,
-      "javascript": 394,
-      "python": 392,
-      "both": 51
+      "total": 802,
+      "javascript": 402,
+      "python": 400,
+      "both": 52
     },
     "2025-11-14T00:00:00.000Z": {
       "challengeNumber": 96,
       "title": "Is It the Weekend?",
-      "total": 717,
-      "javascript": 380,
-      "python": 337,
+      "total": 732,
+      "javascript": 388,
+      "python": 344,
       "both": 49
     },
     "2025-11-15T00:00:00.000Z": {
       "challengeNumber": 97,
       "title": "GCD",
-      "total": 821,
-      "javascript": 393,
-      "python": 428,
+      "total": 836,
+      "javascript": 402,
+      "python": 434,
       "both": 56
     },
     "2025-11-16T00:00:00.000Z": {
       "challengeNumber": 98,
       "title": "Rectangle Count",
-      "total": 635,
-      "javascript": 310,
-      "python": 325,
-      "both": 48
+      "total": 647,
+      "javascript": 318,
+      "python": 329,
+      "both": 49
     },
     "2025-11-17T00:00:00.000Z": {
       "challengeNumber": 99,
       "title": "Fingerprint Test",
-      "total": 858,
-      "javascript": 414,
-      "python": 444,
+      "total": 872,
+      "javascript": 423,
+      "python": 449,
       "both": 64
     },
     "2025-11-18T00:00:00.000Z": {
       "challengeNumber": 100,
       "title": "100 Characters",
-      "total": 977,
-      "javascript": 484,
-      "python": 493,
-      "both": 88
+      "total": 1002,
+      "javascript": 497,
+      "python": 505,
+      "both": 89
     },
     "2025-11-19T00:00:00.000Z": {
       "challengeNumber": 101,
       "title": "Markdown Heading Converter",
-      "total": 676,
-      "javascript": 339,
-      "python": 337,
+      "total": 690,
+      "javascript": 348,
+      "python": 342,
       "both": 59
     },
     "2025-11-20T00:00:00.000Z": {
       "challengeNumber": 102,
       "title": "Longest Word",
-      "total": 829,
-      "javascript": 427,
-      "python": 402,
-      "both": 65
+      "total": 846,
+      "javascript": 437,
+      "python": 409,
+      "both": 66
     },
     "2025-11-21T00:00:00.000Z": {
       "challengeNumber": 103,
       "title": "LCM",
-      "total": 758,
-      "javascript": 358,
-      "python": 400,
+      "total": 770,
+      "javascript": 364,
+      "python": 406,
       "both": 70
     },
     "2025-11-22T00:00:00.000Z": {
       "challengeNumber": 104,
       "title": "Recipe Scaler",
-      "total": 634,
-      "javascript": 324,
-      "python": 310,
+      "total": 647,
+      "javascript": 331,
+      "python": 316,
       "both": 55
     },
     "2025-11-23T00:00:00.000Z": {
       "challengeNumber": 105,
       "title": "Character Count",
-      "total": 718,
-      "javascript": 359,
-      "python": 359,
+      "total": 730,
+      "javascript": 365,
+      "python": 365,
       "both": 58
     },
     "2025-11-24T00:00:00.000Z": {
       "challengeNumber": 106,
       "title": "Message Validator",
-      "total": 847,
-      "javascript": 435,
-      "python": 412,
-      "both": 79
+      "total": 858,
+      "javascript": 442,
+      "python": 416,
+      "both": 80
     },
     "2025-11-25T00:00:00.000Z": {
       "challengeNumber": 107,
       "title": "FizzBuzz",
-      "total": 955,
-      "javascript": 492,
-      "python": 463,
-      "both": 95
+      "total": 970,
+      "javascript": 501,
+      "python": 469,
+      "both": 96
     },
     "2025-11-26T00:00:00.000Z": {
       "challengeNumber": 108,
       "title": "BuzzFizz",
-      "total": 713,
-      "javascript": 360,
-      "python": 353,
-      "both": 68
+      "total": 725,
+      "javascript": 367,
+      "python": 358,
+      "both": 69
     },
     "2025-11-27T00:00:00.000Z": {
       "challengeNumber": 109,
       "title": "What's My Age Again?",
-      "total": 718,
-      "javascript": 366,
-      "python": 352,
+      "total": 731,
+      "javascript": 374,
+      "python": 357,
       "both": 64
     },
     "2025-11-28T00:00:00.000Z": {
       "challengeNumber": 110,
       "title": "Word Guesser",
-      "total": 518,
-      "javascript": 250,
-      "python": 268,
+      "total": 528,
+      "javascript": 257,
+      "python": 271,
       "both": 49
     },
     "2025-11-29T00:00:00.000Z": {
       "challengeNumber": 111,
       "title": "Ball Trajectory",
-      "total": 410,
-      "javascript": 200,
-      "python": 210,
+      "total": 421,
+      "javascript": 205,
+      "python": 216,
       "both": 41
     },
     "2025-11-30T00:00:00.000Z": {
       "challengeNumber": 112,
       "title": "AI Detector",
-      "total": 600,
-      "javascript": 276,
-      "python": 324,
+      "total": 613,
+      "javascript": 282,
+      "python": 331,
       "both": 51
     },
     "2025-12-01T00:00:00.000Z": {
       "challengeNumber": 113,
       "title": "Miles to Kilometers",
-      "total": 1936,
-      "javascript": 968,
-      "python": 968,
-      "both": 213
+      "total": 1960,
+      "javascript": 979,
+      "python": 981,
+      "both": 214
     },
     "2025-12-02T00:00:00.000Z": {
       "challengeNumber": 114,
       "title": "Camel to Snake",
-      "total": 1340,
-      "javascript": 681,
-      "python": 659,
-      "both": 128
+      "total": 1360,
+      "javascript": 694,
+      "python": 666,
+      "both": 129
     },
     "2025-12-03T00:00:00.000Z": {
       "challengeNumber": 115,
       "title": "Markdown Ordered List Item Converter",
-      "total": 806,
-      "javascript": 418,
-      "python": 388,
+      "total": 820,
+      "javascript": 426,
+      "python": 394,
       "both": 80
     },
     "2025-12-04T00:00:00.000Z": {
       "challengeNumber": 116,
       "title": "Permutation Count",
-      "total": 677,
-      "javascript": 324,
-      "python": 353,
+      "total": 688,
+      "javascript": 331,
+      "python": 357,
       "both": 70
     },
     "2025-12-05T00:00:00.000Z": {
       "challengeNumber": 117,
       "title": "Symmetric Difference",
-      "total": 818,
-      "javascript": 414,
-      "python": 404,
+      "total": 834,
+      "javascript": 424,
+      "python": 410,
       "both": 80
     },
     "2025-12-06T00:00:00.000Z": {
       "challengeNumber": 118,
       "title": "Date Formatter",
-      "total": 726,
-      "javascript": 369,
-      "python": 357,
+      "total": 742,
+      "javascript": 379,
+      "python": 363,
       "both": 68
     },
     "2025-12-07T00:00:00.000Z": {
       "challengeNumber": 119,
       "title": "String Compression",
-      "total": 716,
-      "javascript": 364,
-      "python": 352,
+      "total": 731,
+      "javascript": 372,
+      "python": 359,
       "both": 69
     },
     "2025-12-08T00:00:00.000Z": {
       "challengeNumber": 120,
       "title": "Pounds to Kilograms",
-      "total": 898,
-      "javascript": 452,
-      "python": 446,
+      "total": 918,
+      "javascript": 463,
+      "python": 455,
       "both": 89
     },
     "2025-12-09T00:00:00.000Z": {
       "challengeNumber": 121,
       "title": "Most Frequent",
-      "total": 826,
-      "javascript": 384,
-      "python": 442,
+      "total": 845,
+      "javascript": 392,
+      "python": 453,
       "both": 75
     },
     "2025-12-10T00:00:00.000Z": {
       "challengeNumber": 122,
       "title": "Markdown Bold Parser",
-      "total": 517,
-      "javascript": 265,
-      "python": 252,
+      "total": 528,
+      "javascript": 273,
+      "python": 255,
       "both": 57
     },
     "2025-12-11T00:00:00.000Z": {
       "challengeNumber": 123,
       "title": "Roman Numeral Builder",
-      "total": 567,
-      "javascript": 275,
-      "python": 292,
+      "total": 581,
+      "javascript": 282,
+      "python": 299,
       "both": 64
     },
     "2025-12-12T00:00:00.000Z": {
       "challengeNumber": 124,
       "title": "Inventory Update",
-      "total": 631,
-      "javascript": 297,
-      "python": 334,
+      "total": 643,
+      "javascript": 304,
+      "python": 339,
       "both": 66
     },
     "2025-12-13T00:00:00.000Z": {
       "challengeNumber": 125,
       "title": "Game of Life",
-      "total": 432,
-      "javascript": 199,
-      "python": 233,
+      "total": 443,
+      "javascript": 205,
+      "python": 238,
       "both": 51
     },
     "2025-12-14T00:00:00.000Z": {
       "challengeNumber": 126,
       "title": "Capitalize It",
-      "total": 880,
-      "javascript": 405,
-      "python": 475,
-      "both": 91
+      "total": 910,
+      "javascript": 422,
+      "python": 488,
+      "both": 92
     },
     "2025-12-15T00:00:00.000Z": {
       "challengeNumber": 127,
       "title": "Speed Check",
-      "total": 961,
-      "javascript": 462,
-      "python": 499,
-      "both": 101
+      "total": 981,
+      "javascript": 472,
+      "python": 509,
+      "both": 102
     },
     "2025-12-16T00:00:00.000Z": {
       "challengeNumber": 128,
       "title": "Consonant Count",
-      "total": 838,
-      "javascript": 407,
-      "python": 431,
-      "both": 86
+      "total": 860,
+      "javascript": 418,
+      "python": 442,
+      "both": 88
     },
     "2025-12-17T00:00:00.000Z": {
       "challengeNumber": 129,
       "title": "Markdown Blockquote Parser",
-      "total": 637,
-      "javascript": 310,
-      "python": 327,
+      "total": 650,
+      "javascript": 316,
+      "python": 334,
       "both": 72
     },
     "2025-12-18T00:00:00.000Z": {
       "challengeNumber": 130,
       "title": "Checkerboard",
-      "total": 670,
-      "javascript": 324,
-      "python": 346,
+      "total": 685,
+      "javascript": 332,
+      "python": 353,
       "both": 70
     },
     "2025-12-19T00:00:00.000Z": {
       "challengeNumber": 131,
       "title": "Pairwise",
-      "total": 665,
-      "javascript": 318,
-      "python": 347,
+      "total": 678,
+      "javascript": 325,
+      "python": 353,
       "both": 73
     },
     "2025-12-20T00:00:00.000Z": {
       "challengeNumber": 132,
       "title": "Purge Most Frequent",
-      "total": 579,
-      "javascript": 268,
-      "python": 311,
+      "total": 593,
+      "javascript": 274,
+      "python": 319,
       "both": 70
     },
     "2025-12-21T00:00:00.000Z": {
       "challengeNumber": 133,
       "title": "Daylight Hours",
-      "total": 588,
-      "javascript": 270,
-      "python": 318,
+      "total": 603,
+      "javascript": 279,
+      "python": 324,
       "both": 68
     },
     "2025-12-22T00:00:00.000Z": {
       "challengeNumber": 134,
       "title": "Traveling Shopper",
-      "total": 597,
-      "javascript": 282,
-      "python": 315,
+      "total": 611,
+      "javascript": 289,
+      "python": 322,
       "both": 70
     },
     "2025-12-23T00:00:00.000Z": {
       "challengeNumber": 135,
       "title": "Re: Fwd: Fw: Count",
-      "total": 670,
-      "javascript": 318,
-      "python": 352,
+      "total": 685,
+      "javascript": 326,
+      "python": 359,
       "both": 76
     },
     "2025-12-24T00:00:00.000Z": {
       "challengeNumber": 136,
       "title": "Markdown Image Parser",
-      "total": 549,
-      "javascript": 270,
-      "python": 279,
+      "total": 562,
+      "javascript": 275,
+      "python": 287,
       "both": 70
     },
     "2025-12-25T00:00:00.000Z": {
       "challengeNumber": 137,
       "title": "Snowflake Generator",
-      "total": 531,
-      "javascript": 255,
-      "python": 276,
+      "total": 545,
+      "javascript": 260,
+      "python": 285,
       "both": 64
     },
     "2025-12-26T00:00:00.000Z": {
       "challengeNumber": 138,
       "title": "Sum of Divisors",
-      "total": 809,
-      "javascript": 377,
-      "python": 432,
-      "both": 98
+      "total": 832,
+      "javascript": 386,
+      "python": 446,
+      "both": 99
     },
     "2025-12-27T00:00:00.000Z": {
       "challengeNumber": 139,
       "title": "Rock, Paper, Scissors",
-      "total": 798,
-      "javascript": 381,
-      "python": 417,
+      "total": 819,
+      "javascript": 391,
+      "python": 428,
       "both": 91
     },
     "2025-12-28T00:00:00.000Z": {
       "challengeNumber": 140,
       "title": "SCREAMING_SNAKE_CASE",
-      "total": 662,
-      "javascript": 314,
-      "python": 348,
+      "total": 682,
+      "javascript": 323,
+      "python": 359,
       "both": 78
     },
     "2025-12-29T00:00:00.000Z": {
       "challengeNumber": 141,
       "title": "Takeoff Fuel",
-      "total": 735,
-      "javascript": 345,
-      "python": 390,
+      "total": 754,
+      "javascript": 355,
+      "python": 399,
       "both": 83
     },
     "2025-12-30T00:00:00.000Z": {
       "challengeNumber": 142,
       "title": "Sum the String",
-      "total": 692,
-      "javascript": 319,
-      "python": 373,
+      "total": 719,
+      "javascript": 335,
+      "python": 384,
       "both": 73
     },
     "2025-12-31T00:00:00.000Z": {
       "challengeNumber": 143,
       "title": "Markdown Italic Parser",
-      "total": 462,
-      "javascript": 218,
-      "python": 244,
-      "both": 59
+      "total": 476,
+      "javascript": 224,
+      "python": 252,
+      "both": 60
     },
     "2026-01-01T00:00:00.000Z": {
       "challengeNumber": 144,
       "title": "Resolution Streak",
-      "total": 1386,
-      "javascript": 647,
-      "python": 739,
-      "both": 149
+      "total": 1418,
+      "javascript": 663,
+      "python": 755,
+      "both": 150
     },
     "2026-01-02T00:00:00.000Z": {
       "challengeNumber": 145,
       "title": "Nth Fibonacci Number",
-      "total": 1273,
-      "javascript": 566,
-      "python": 707,
-      "both": 145
+      "total": 1303,
+      "javascript": 580,
+      "python": 723,
+      "both": 147
     },
     "2026-01-03T00:00:00.000Z": {
       "challengeNumber": 146,
       "title": "Left-Handed Seat at the Table",
-      "total": 795,
-      "javascript": 375,
-      "python": 420,
-      "both": 90
+      "total": 810,
+      "javascript": 382,
+      "python": 428,
+      "both": 91
     },
     "2026-01-04T00:00:00.000Z": {
       "challengeNumber": 147,
       "title": "Leap Year Calculator",
-      "total": 1237,
-      "javascript": 574,
-      "python": 663,
-      "both": 140
+      "total": 1266,
+      "javascript": 587,
+      "python": 679,
+      "both": 141
     },
     "2026-01-05T00:00:00.000Z": {
       "challengeNumber": 148,
       "title": "Tire Pressure",
-      "total": 1176,
-      "javascript": 555,
-      "python": 621,
-      "both": 128
+      "total": 1205,
+      "javascript": 572,
+      "python": 633,
+      "both": 129
     },
     "2026-01-06T00:00:00.000Z": {
       "challengeNumber": 149,
       "title": "vOwElcAsE",
-      "total": 1200,
-      "javascript": 557,
-      "python": 643,
-      "both": 124
+      "total": 1237,
+      "javascript": 578,
+      "python": 659,
+      "both": 126
     },
     "2026-01-07T00:00:00.000Z": {
       "challengeNumber": 150,
       "title": "Markdown Unordered List Parser",
-      "total": 755,
-      "javascript": 362,
-      "python": 393,
-      "both": 93
+      "total": 775,
+      "javascript": 373,
+      "python": 402,
+      "both": 95
     },
     "2026-01-08T00:00:00.000Z": {
       "challengeNumber": 151,
       "title": "Sorted Array?",
-      "total": 1025,
-      "javascript": 461,
-      "python": 564,
-      "both": 103
+      "total": 1057,
+      "javascript": 477,
+      "python": 580,
+      "both": 104
     },
     "2026-01-09T00:00:00.000Z": {
       "challengeNumber": 152,
       "title": "Circular Prime",
-      "total": 770,
-      "javascript": 338,
-      "python": 432,
-      "both": 92
+      "total": 789,
+      "javascript": 350,
+      "python": 439,
+      "both": 93
     },
     "2026-01-10T00:00:00.000Z": {
       "challengeNumber": 153,
       "title": "Tic-Tac-Toe",
-      "total": 718,
-      "javascript": 317,
-      "python": 401,
-      "both": 86
+      "total": 738,
+      "javascript": 331,
+      "python": 407,
+      "both": 87
     },
     "2026-01-11T00:00:00.000Z": {
       "challengeNumber": 154,
       "title": "Par for the Hole",
-      "total": 998,
-      "javascript": 454,
-      "python": 544,
-      "both": 114
+      "total": 1022,
+      "javascript": 467,
+      "python": 555,
+      "both": 115
     },
     "2026-01-12T00:00:00.000Z": {
       "challengeNumber": 155,
       "title": "Plant the Crop",
-      "total": 996,
-      "javascript": 459,
-      "python": 537,
-      "both": 109
+      "total": 1016,
+      "javascript": 474,
+      "python": 542,
+      "both": 110
     },
     "2026-01-13T00:00:00.000Z": {
       "challengeNumber": 156,
       "title": "Odd or Even?",
-      "total": 1590,
-      "javascript": 763,
-      "python": 827,
-      "both": 192
+      "total": 1629,
+      "javascript": 787,
+      "python": 842,
+      "both": 194
     },
     "2026-01-14T00:00:00.000Z": {
       "challengeNumber": 157,
       "title": "Markdown Link Parser",
-      "total": 807,
-      "javascript": 386,
-      "python": 421,
-      "both": 98
+      "total": 824,
+      "javascript": 398,
+      "python": 426,
+      "both": 99
     },
     "2026-01-15T00:00:00.000Z": {
       "challengeNumber": 158,
       "title": "Array Swap",
-      "total": 1228,
-      "javascript": 606,
-      "python": 622,
-      "both": 145
+      "total": 1256,
+      "javascript": 624,
+      "python": 632,
+      "both": 147
     },
     "2026-01-16T00:00:00.000Z": {
       "challengeNumber": 159,
       "title": "Integer Hypotenuse",
-      "total": 1040,
-      "javascript": 482,
-      "python": 558,
-      "both": 113
+      "total": 1063,
+      "javascript": 496,
+      "python": 567,
+      "both": 114
     },
     "2026-01-17T00:00:00.000Z": {
       "challengeNumber": 160,
       "title": "Knight Moves",
-      "total": 626,
-      "javascript": 276,
-      "python": 350,
-      "both": 77
+      "total": 642,
+      "javascript": 287,
+      "python": 355,
+      "both": 78
     },
     "2026-01-18T00:00:00.000Z": {
       "challengeNumber": 161,
       "title": "Free Shipping",
-      "total": 970,
-      "javascript": 441,
-      "python": 529,
+      "total": 994,
+      "javascript": 458,
+      "python": 536,
       "both": 108
     },
     "2026-01-19T00:00:00.000Z": {
       "challengeNumber": 162,
       "title": "Energy Consumption",
-      "total": 1127,
-      "javascript": 523,
-      "python": 604,
+      "total": 1149,
+      "javascript": 538,
+      "python": 611,
       "both": 133
     },
     "2026-01-20T00:00:00.000Z": {
       "challengeNumber": 163,
       "title": "Consonant Case",
-      "total": 978,
-      "javascript": 446,
-      "python": 532,
-      "both": 115
+      "total": 1000,
+      "javascript": 460,
+      "python": 540,
+      "both": 116
     },
     "2026-01-21T00:00:00.000Z": {
       "challengeNumber": 164,
       "title": "Markdown Inline Code Parser",
-      "total": 741,
-      "javascript": 344,
-      "python": 397,
+      "total": 755,
+      "javascript": 355,
+      "python": 400,
       "both": 95
     },
     "2026-01-22T00:00:00.000Z": {
       "challengeNumber": 165,
       "title": "Class Average",
-      "total": 985,
-      "javascript": 454,
-      "python": 531,
+      "total": 1003,
+      "javascript": 466,
+      "python": 537,
       "both": 108
     },
     "2026-01-23T00:00:00.000Z": {
       "challengeNumber": 166,
       "title": "Hex Validator",
-      "total": 864,
-      "javascript": 415,
-      "python": 449,
+      "total": 878,
+      "javascript": 426,
+      "python": 452,
       "both": 96
     },
     "2026-01-24T00:00:00.000Z": {
       "challengeNumber": 167,
       "title": "Bingo! Letter",
-      "total": 1038,
-      "javascript": 481,
-      "python": 557,
+      "total": 1058,
+      "javascript": 496,
+      "python": 562,
       "both": 117
     },
     "2026-01-25T00:00:00.000Z": {
       "challengeNumber": 168,
       "title": "Scaled Image",
-      "total": 1001,
-      "javascript": 463,
-      "python": 538,
+      "total": 1020,
+      "javascript": 476,
+      "python": 544,
       "both": 114
     },
     "2026-01-26T00:00:00.000Z": {
       "challengeNumber": 169,
       "title": "FizzBuzz Mini",
-      "total": 1170,
-      "javascript": 533,
-      "python": 637,
-      "both": 138
+      "total": 1192,
+      "javascript": 549,
+      "python": 643,
+      "both": 139
     },
     "2026-01-27T00:00:00.000Z": {
       "challengeNumber": 170,
       "title": "Odd or Even Day",
-      "total": 810,
-      "javascript": 392,
-      "python": 418,
+      "total": 825,
+      "javascript": 404,
+      "python": 421,
       "both": 102
     },
     "2026-01-28T00:00:00.000Z": {
       "challengeNumber": 171,
       "title": "Flatten the Array",
-      "total": 804,
-      "javascript": 403,
-      "python": 401,
+      "total": 822,
+      "javascript": 416,
+      "python": 406,
       "both": 100
     },
     "2026-01-29T00:00:00.000Z": {
       "challengeNumber": 172,
       "title": "Letters-Numbers",
-      "total": 794,
-      "javascript": 373,
-      "python": 421,
+      "total": 813,
+      "javascript": 385,
+      "python": 428,
       "both": 90
     },
     "2026-01-30T00:00:00.000Z": {
       "challengeNumber": 173,
       "title": "Valid Pawn Moves",
-      "total": 665,
-      "javascript": 307,
-      "python": 358,
+      "total": 682,
+      "javascript": 316,
+      "python": 366,
       "both": 86
     },
     "2026-01-31T00:00:00.000Z": {
       "challengeNumber": 174,
       "title": "Zodiac Finder",
-      "total": 627,
-      "javascript": 300,
-      "python": 327,
+      "total": 638,
+      "javascript": 308,
+      "python": 330,
       "both": 81
     },
     "2026-02-01T00:00:00.000Z": {
       "challengeNumber": 175,
       "title": "Digital Detox",
-      "total": 717,
-      "javascript": 329,
-      "python": 388,
-      "both": 83
+      "total": 729,
+      "javascript": 337,
+      "python": 392,
+      "both": 85
     },
     "2026-02-02T00:00:00.000Z": {
       "challengeNumber": 176,
       "title": "Groundhog Day",
-      "total": 1382,
-      "javascript": 650,
-      "python": 732,
-      "both": 153
+      "total": 1406,
+      "javascript": 664,
+      "python": 742,
+      "both": 157
     },
     "2026-02-03T00:00:00.000Z": {
       "challengeNumber": 177,
       "title": "String Mirror",
-      "total": 1476,
-      "javascript": 700,
-      "python": 776,
-      "both": 159
+      "total": 1516,
+      "javascript": 720,
+      "python": 796,
+      "both": 164
     },
     "2026-02-04T00:00:00.000Z": {
       "challengeNumber": 178,
       "title": "Truncate the Text",
-      "total": 1351,
-      "javascript": 647,
-      "python": 704,
-      "both": 155
+      "total": 1384,
+      "javascript": 665,
+      "python": 719,
+      "both": 160
     },
     "2026-02-05T00:00:00.000Z": {
       "challengeNumber": 179,
       "title": "Pocket Change",
-      "total": 1167,
-      "javascript": 537,
-      "python": 630,
-      "both": 129
+      "total": 1190,
+      "javascript": 551,
+      "python": 639,
+      "both": 133
     },
     "2026-02-06T00:00:00.000Z": {
       "challengeNumber": 180,
       "title": "2026 Winter Games Day 1: Opening Day",
-      "total": 925,
-      "javascript": 435,
-      "python": 490,
-      "both": 105
+      "total": 946,
+      "javascript": 447,
+      "python": 499,
+      "both": 107
     },
     "2026-02-07T00:00:00.000Z": {
       "challengeNumber": 181,
       "title": "2026 Winter Games Day 2: Snowboarding",
-      "total": 835,
-      "javascript": 381,
-      "python": 454,
-      "both": 105
+      "total": 854,
+      "javascript": 390,
+      "python": 464,
+      "both": 108
     },
     "2026-02-08T00:00:00.000Z": {
       "challengeNumber": 182,
       "title": "2026 Winter Games Day 3: Biathlon",
-      "total": 979,
-      "javascript": 439,
-      "python": 540,
-      "both": 122
+      "total": 995,
+      "javascript": 447,
+      "python": 548,
+      "both": 124
     },
     "2026-02-09T00:00:00.000Z": {
       "challengeNumber": 183,
       "title": "2026 Winter Games Day 4: Ski Jumping",
-      "total": 952,
-      "javascript": 450,
-      "python": 502,
-      "both": 109
+      "total": 971,
+      "javascript": 460,
+      "python": 511,
+      "both": 111
     },
     "2026-02-10T00:00:00.000Z": {
       "challengeNumber": 184,
       "title": "2026 Winter Games Day 5: Cross-Country Skiing",
-      "total": 684,
-      "javascript": 311,
-      "python": 373,
-      "both": 85
+      "total": 698,
+      "javascript": 317,
+      "python": 381,
+      "both": 88
     },
     "2026-02-11T00:00:00.000Z": {
       "challengeNumber": 185,
       "title": "2026 Winter Games Day 6: Figure Skating",
-      "total": 885,
-      "javascript": 397,
-      "python": 488,
-      "both": 104
+      "total": 905,
+      "javascript": 407,
+      "python": 498,
+      "both": 107
     },
     "2026-02-12T00:00:00.000Z": {
       "challengeNumber": 186,
       "title": "2026 Winter Games Day 7: Speed Skating",
-      "total": 823,
-      "javascript": 377,
-      "python": 446,
-      "both": 97
+      "total": 842,
+      "javascript": 388,
+      "python": 454,
+      "both": 100
     },
     "2026-02-13T00:00:00.000Z": {
       "challengeNumber": 187,
       "title": "2026 Winter Games Day 8: Luge",
-      "total": 784,
-      "javascript": 356,
-      "python": 428,
-      "both": 97
+      "total": 803,
+      "javascript": 364,
+      "python": 439,
+      "both": 100
     },
     "2026-02-14T00:00:00.000Z": {
       "challengeNumber": 188,
       "title": "2026 Winter Games Day 9: Skeleton",
-      "total": 694,
-      "javascript": 314,
-      "python": 380,
-      "both": 82
+      "total": 712,
+      "javascript": 323,
+      "python": 389,
+      "both": 85
     },
     "2026-02-15T00:00:00.000Z": {
       "challengeNumber": 189,
       "title": "2026 Winter Games Day 10: Alpine Skiing",
-      "total": 779,
-      "javascript": 355,
-      "python": 424,
-      "both": 99
+      "total": 799,
+      "javascript": 364,
+      "python": 435,
+      "both": 102
     },
     "2026-02-16T00:00:00.000Z": {
       "challengeNumber": 190,
       "title": "2026 Winter Games Day 11: Ice Hockey",
-      "total": 629,
-      "javascript": 288,
-      "python": 341,
-      "both": 75
+      "total": 647,
+      "javascript": 297,
+      "python": 350,
+      "both": 78
     },
     "2026-02-17T00:00:00.000Z": {
       "challengeNumber": 191,
       "title": "2026 Winter Games Day 12: Bobsled",
-      "total": 721,
-      "javascript": 331,
-      "python": 390,
-      "both": 95
+      "total": 739,
+      "javascript": 341,
+      "python": 398,
+      "both": 97
     },
     "2026-02-18T00:00:00.000Z": {
       "challengeNumber": 192,
       "title": "2026 Winter Games Day 13: Nordic Combined",
-      "total": 757,
-      "javascript": 351,
-      "python": 406,
-      "both": 100
+      "total": 775,
+      "javascript": 360,
+      "python": 415,
+      "both": 102
     },
     "2026-02-19T00:00:00.000Z": {
       "challengeNumber": 193,
       "title": "2026 Winter Games Day 14: Ski Mountaineering",
-      "total": 848,
-      "javascript": 384,
-      "python": 464,
-      "both": 109
+      "total": 864,
+      "javascript": 391,
+      "python": 473,
+      "both": 110
     },
     "2026-02-20T00:00:00.000Z": {
       "challengeNumber": 194,
       "title": "2026 Winter Games Day 15: Freestyle Skiing",
-      "total": 787,
-      "javascript": 348,
-      "python": 439,
-      "both": 101
+      "total": 802,
+      "javascript": 356,
+      "python": 446,
+      "both": 102
     },
     "2026-02-21T00:00:00.000Z": {
       "challengeNumber": 195,
       "title": "2026 Winter Games Day 16: Curling",
-      "total": 390,
-      "javascript": 178,
-      "python": 212,
-      "both": 56
+      "total": 402,
+      "javascript": 183,
+      "python": 219,
+      "both": 57
     },
     "2026-02-22T00:00:00.000Z": {
       "challengeNumber": 196,
       "title": "2026 Winter Games Day 17: Closing Day",
-      "total": 461,
-      "javascript": 218,
-      "python": 243,
-      "both": 60
+      "total": 471,
+      "javascript": 223,
+      "python": 248,
+      "both": 61
     },
     "2026-02-23T00:00:00.000Z": {
       "challengeNumber": 197,
       "title": "Blood Type Compatibility",
-      "total": 737,
-      "javascript": 327,
-      "python": 410,
-      "both": 87
+      "total": 752,
+      "javascript": 335,
+      "python": 417,
+      "both": 89
     },
     "2026-02-24T00:00:00.000Z": {
       "challengeNumber": 198,
       "title": "Business Day Count",
-      "total": 565,
-      "javascript": 275,
-      "python": 290,
-      "both": 70
+      "total": 574,
+      "javascript": 279,
+      "python": 295,
+      "both": 71
     },
     "2026-02-25T00:00:00.000Z": {
       "challengeNumber": 199,
       "title": "Sequential Difference",
-      "total": 781,
-      "javascript": 365,
-      "python": 416,
-      "both": 92
+      "total": 793,
+      "javascript": 369,
+      "python": 424,
+      "both": 94
     },
     "2026-02-26T00:00:00.000Z": {
       "challengeNumber": 200,
       "title": "Letter and Number Count",
-      "total": 784,
-      "javascript": 361,
-      "python": 423,
-      "both": 94
+      "total": 812,
+      "javascript": 373,
+      "python": 439,
+      "both": 99
     },
     "2026-02-27T00:00:00.000Z": {
       "challengeNumber": 201,
       "title": "Matrix Shift",
-      "total": 472,
-      "javascript": 213,
-      "python": 259,
-      "both": 65
+      "total": 481,
+      "javascript": 218,
+      "python": 263,
+      "both": 66
     },
     "2026-02-28T00:00:00.000Z": {
       "challengeNumber": 202,
       "title": "Add Punctuation",
-      "total": 606,
-      "javascript": 272,
-      "python": 334,
-      "both": 70
+      "total": 623,
+      "javascript": 281,
+      "python": 342,
+      "both": 72
     },
     "2026-03-01T00:00:00.000Z": {
       "challengeNumber": 203,
       "title": "Flattened",
-      "total": 1326,
-      "javascript": 643,
-      "python": 683,
-      "both": 122
+      "total": 1370,
+      "javascript": 670,
+      "python": 700,
+      "both": 126
     },
     "2026-03-02T00:00:00.000Z": {
       "challengeNumber": 204,
       "title": "Sum the Letters",
-      "total": 1240,
-      "javascript": 557,
-      "python": 683,
-      "both": 106
+      "total": 1283,
+      "javascript": 576,
+      "python": 707,
+      "both": 110
     },
     "2026-03-03T00:00:00.000Z": {
       "challengeNumber": 205,
       "title": "Perfect Cube Count",
-      "total": 886,
-      "javascript": 415,
-      "python": 471,
-      "both": 84
+      "total": 916,
+      "javascript": 434,
+      "python": 482,
+      "both": 87
     },
     "2026-03-04T00:00:00.000Z": {
       "challengeNumber": 206,
       "title": "Playing Card Values",
-      "total": 922,
-      "javascript": 412,
-      "python": 510,
-      "both": 94
+      "total": 952,
+      "javascript": 429,
+      "python": 523,
+      "both": 98
     },
     "2026-03-05T00:00:00.000Z": {
       "challengeNumber": 207,
       "title": "Smallest Gap",
-      "total": 631,
-      "javascript": 278,
-      "python": 353,
-      "both": 71
+      "total": 650,
+      "javascript": 285,
+      "python": 365,
+      "both": 75
     },
     "2026-03-06T00:00:00.000Z": {
       "challengeNumber": 208,
       "title": "Trail Traversal",
-      "total": 457,
-      "javascript": 211,
-      "python": 246,
-      "both": 51
+      "total": 471,
+      "javascript": 218,
+      "python": 253,
+      "both": 56
     },
     "2026-03-07T00:00:00.000Z": {
       "challengeNumber": 209,
       "title": "Element Size",
-      "total": 732,
-      "javascript": 344,
-      "python": 388,
-      "both": 70
+      "total": 757,
+      "javascript": 355,
+      "python": 402,
+      "both": 74
     },
     "2026-03-08T00:00:00.000Z": {
       "challengeNumber": 210,
       "title": "HSL Validator",
-      "total": 586,
-      "javascript": 268,
-      "python": 318,
-      "both": 61
+      "total": 610,
+      "javascript": 280,
+      "python": 330,
+      "both": 67
     },
     "2026-03-09T00:00:00.000Z": {
       "challengeNumber": 211,
       "title": "Array Sum",
-      "total": 1184,
-      "javascript": 546,
-      "python": 638,
-      "both": 105
+      "total": 1230,
+      "javascript": 565,
+      "python": 665,
+      "both": 113
     },
     "2026-03-10T00:00:00.000Z": {
       "challengeNumber": 212,
       "title": "Array Insertion",
-      "total": 971,
-      "javascript": 457,
-      "python": 514,
-      "both": 84
+      "total": 1012,
+      "javascript": 476,
+      "python": 536,
+      "both": 91
     },
     "2026-03-11T00:00:00.000Z": {
       "challengeNumber": 213,
       "title": "Word Length Converter",
-      "total": 968,
-      "javascript": 458,
-      "python": 510,
-      "both": 85
+      "total": 1012,
+      "javascript": 479,
+      "python": 533,
+      "both": 91
     },
     "2026-03-12T00:00:00.000Z": {
       "challengeNumber": 214,
       "title": "Domino Chain Validator",
-      "total": 758,
-      "javascript": 357,
-      "python": 401,
-      "both": 72
+      "total": 785,
+      "javascript": 369,
+      "python": 416,
+      "both": 79
     },
     "2026-03-13T00:00:00.000Z": {
       "challengeNumber": 215,
       "title": "Parking Fee Calculator",
-      "total": 625,
-      "javascript": 270,
-      "python": 355,
-      "both": 57
+      "total": 651,
+      "javascript": 282,
+      "python": 369,
+      "both": 63
     },
     "2026-03-14T00:00:00.000Z": {
       "challengeNumber": 216,
       "title": "Pi Day",
-      "total": 603,
-      "javascript": 273,
-      "python": 330,
-      "both": 58
+      "total": 632,
+      "javascript": 288,
+      "python": 344,
+      "both": 64
     },
     "2026-03-15T00:00:00.000Z": {
       "challengeNumber": 217,
       "title": "Captured Chess Pieces",
-      "total": 706,
-      "javascript": 302,
-      "python": 404,
-      "both": 66
+      "total": 730,
+      "javascript": 312,
+      "python": 418,
+      "both": 71
     },
     "2026-03-16T00:00:00.000Z": {
       "challengeNumber": 218,
       "title": "Evenly Divisible",
-      "total": 1141,
-      "javascript": 534,
-      "python": 607,
-      "both": 96
+      "total": 1183,
+      "javascript": 552,
+      "python": 631,
+      "both": 102
     },
     "2026-03-17T00:00:00.000Z": {
       "challengeNumber": 219,
       "title": "Anniversary Milestones",
-      "total": 897,
-      "javascript": 416,
-      "python": 481,
-      "both": 77
+      "total": 925,
+      "javascript": 428,
+      "python": 497,
+      "both": 84
     },
     "2026-03-18T00:00:00.000Z": {
       "challengeNumber": 220,
       "title": "Largest Number",
-      "total": 819,
-      "javascript": 388,
-      "python": 431,
-      "both": 72
+      "total": 856,
+      "javascript": 403,
+      "python": 453,
+      "both": 77
     },
     "2026-03-19T00:00:00.000Z": {
       "challengeNumber": 221,
       "title": "Inverted Matrix",
-      "total": 628,
-      "javascript": 295,
-      "python": 333,
-      "both": 55
+      "total": 655,
+      "javascript": 308,
+      "python": 347,
+      "both": 60
     },
     "2026-03-20T00:00:00.000Z": {
       "challengeNumber": 222,
       "title": "Equinox Shadows",
-      "total": 538,
-      "javascript": 231,
-      "python": 307,
-      "both": 52
+      "total": 560,
+      "javascript": 243,
+      "python": 317,
+      "both": 56
     },
     "2026-03-21T00:00:00.000Z": {
       "challengeNumber": 223,
       "title": "QR Decoder",
-      "total": 349,
-      "javascript": 148,
-      "python": 201,
-      "both": 45
+      "total": 374,
+      "javascript": 160,
+      "python": 214,
+      "both": 51
     },
     "2026-03-22T00:00:00.000Z": {
       "challengeNumber": 224,
       "title": "Coffee Roast Detector",
-      "total": 726,
-      "javascript": 304,
-      "python": 422,
-      "both": 68
+      "total": 773,
+      "javascript": 324,
+      "python": 449,
+      "both": 75
     },
     "2026-03-23T00:00:00.000Z": {
       "challengeNumber": 225,
       "title": "No Consecutive Repeats",
-      "total": 820,
-      "javascript": 372,
-      "python": 448,
-      "both": 74
+      "total": 859,
+      "javascript": 389,
+      "python": 470,
+      "both": 80
     },
     "2026-03-24T00:00:00.000Z": {
       "challengeNumber": 226,
       "title": "Passing Exam Count",
-      "total": 986,
-      "javascript": 450,
-      "python": 536,
-      "both": 85
+      "total": 1039,
+      "javascript": 471,
+      "python": 568,
+      "both": 90
     },
     "2026-03-25T00:00:00.000Z": {
       "challengeNumber": 227,
       "title": "Cooldown Time",
-      "total": 635,
-      "javascript": 278,
-      "python": 357,
-      "both": 61
+      "total": 666,
+      "javascript": 293,
+      "python": 373,
+      "both": 67
     },
     "2026-03-26T00:00:00.000Z": {
       "challengeNumber": 228,
       "title": "Movie Night",
-      "total": 605,
-      "javascript": 265,
-      "python": 340,
-      "both": 54
+      "total": 644,
+      "javascript": 285,
+      "python": 359,
+      "both": 61
     },
     "2026-03-27T00:00:00.000Z": {
       "challengeNumber": 229,
       "title": "Truncate the Text 2",
-      "total": 400,
-      "javascript": 180,
-      "python": 220,
-      "both": 44
+      "total": 439,
+      "javascript": 199,
+      "python": 240,
+      "both": 50
     },
     "2026-03-28T00:00:00.000Z": {
       "challengeNumber": 230,
       "title": "Pascal's Triangle Row",
-      "total": 451,
-      "javascript": 202,
-      "python": 249,
-      "both": 41
+      "total": 486,
+      "javascript": 221,
+      "python": 265,
+      "both": 48
     },
     "2026-03-29T00:00:00.000Z": {
       "challengeNumber": 231,
       "title": "ISBN-10 Validator",
-      "total": 524,
-      "javascript": 215,
-      "python": 309,
-      "both": 48
+      "total": 566,
+      "javascript": 234,
+      "python": 332,
+      "both": 54
     },
     "2026-03-30T00:00:00.000Z": {
       "challengeNumber": 232,
       "title": "Due Date",
-      "total": 489,
-      "javascript": 220,
-      "python": 269,
-      "both": 48
+      "total": 524,
+      "javascript": 239,
+      "python": 285,
+      "both": 55
     },
     "2026-03-31T00:00:00.000Z": {
       "challengeNumber": 233,
       "title": "Wake-Up Alarm",
-      "total": 610,
-      "javascript": 272,
-      "python": 338,
-      "both": 57
+      "total": 657,
+      "javascript": 292,
+      "python": 365,
+      "both": 63
     },
     "2026-04-01T00:00:00.000Z": {
       "challengeNumber": 234,
       "title": "Prank Number",
-      "total": 449,
-      "javascript": 190,
-      "python": 259,
-      "both": 37
+      "total": 631,
+      "javascript": 277,
+      "python": 354,
+      "both": 48
     },
     "2026-04-02T00:00:00.000Z": {
       "challengeNumber": 235,
       "title": "Capitalized Fibonacci",
-      "total": 531,
-      "javascript": 219,
-      "python": 312,
-      "both": 48
+      "total": 681,
+      "javascript": 280,
+      "python": 401,
+      "both": 56
     },
     "2026-04-03T00:00:00.000Z": {
       "challengeNumber": 236,
       "title": "Browser History",
-      "total": 352,
-      "javascript": 160,
-      "python": 192,
-      "both": 34
+      "total": 460,
+      "javascript": 208,
+      "python": 252,
+      "both": 44
     },
     "2026-04-04T00:00:00.000Z": {
       "challengeNumber": 237,
       "title": "Equation Validation",
-      "total": 429,
-      "javascript": 190,
-      "python": 239,
-      "both": 37
+      "total": 553,
+      "javascript": 246,
+      "python": 307,
+      "both": 48
     },
     "2026-04-05T00:00:00.000Z": {
       "challengeNumber": 238,
       "title": "Digit Rotation Escape",
-      "total": 421,
-      "javascript": 180,
-      "python": 241,
-      "both": 35
+      "total": 558,
+      "javascript": 245,
+      "python": 313,
+      "both": 48
     },
     "2026-04-06T00:00:00.000Z": {
       "challengeNumber": 239,
       "title": "What Day Is It?",
-      "total": 515,
-      "javascript": 260,
-      "python": 255,
-      "both": 43
+      "total": 683,
+      "javascript": 351,
+      "python": 332,
+      "both": 59
     },
     "2026-04-07T00:00:00.000Z": {
       "challengeNumber": 240,
       "title": "Palindrome Characters",
-      "total": 547,
-      "javascript": 239,
-      "python": 308,
-      "both": 36
+      "total": 789,
+      "javascript": 352,
+      "python": 437,
+      "both": 52
     },
     "2026-04-08T00:00:00.000Z": {
       "challengeNumber": 241,
       "title": "FizzBuzz Validator",
-      "total": 305,
-      "javascript": 145,
-      "python": 160,
-      "both": 26
+      "total": 535,
+      "javascript": 245,
+      "python": 290,
+      "both": 46
+    },
+    "2026-04-09T00:00:00.000Z": {
+      "challengeNumber": 242,
+      "title": "Next Bingo Number",
+      "total": 711,
+      "javascript": 320,
+      "python": 391,
+      "both": 55
+    },
+    "2026-04-10T00:00:00.000Z": {
+      "challengeNumber": 243,
+      "title": "Rook Attack",
+      "total": 710,
+      "javascript": 316,
+      "python": 394,
+      "both": 62
+    },
+    "2026-04-11T00:00:00.000Z": {
+      "challengeNumber": 244,
+      "title": "Rook and Bishop Attack",
+      "total": 487,
+      "javascript": 211,
+      "python": 276,
+      "both": 42
+    },
+    "2026-04-12T00:00:00.000Z": {
+      "challengeNumber": 245,
+      "title": "Spiral Matrix",
+      "total": 400,
+      "javascript": 185,
+      "python": 215,
+      "both": 39
+    },
+    "2026-04-13T00:00:00.000Z": {
+      "challengeNumber": 246,
+      "title": "Name Initials",
+      "total": 879,
+      "javascript": 399,
+      "python": 480,
+      "both": 62
+    },
+    "2026-04-14T00:00:00.000Z": {
+      "challengeNumber": 247,
+      "title": "Last Letter",
+      "total": 685,
+      "javascript": 314,
+      "python": 371,
+      "both": 51
+    },
+    "2026-04-15T00:00:00.000Z": {
+      "challengeNumber": 248,
+      "title": "Sorted Array Swap",
+      "total": 616,
+      "javascript": 281,
+      "python": 335,
+      "both": 48
+    },
+    "2026-04-16T00:00:00.000Z": {
+      "challengeNumber": 249,
+      "title": "String Math",
+      "total": 451,
+      "javascript": 210,
+      "python": 241,
+      "both": 40
+    },
+    "2026-04-17T00:00:00.000Z": {
+      "challengeNumber": 250,
+      "title": "Hidden Key",
+      "total": 297,
+      "javascript": 130,
+      "python": 167,
+      "both": 36
+    },
+    "2026-04-18T00:00:00.000Z": {
+      "challengeNumber": 251,
+      "title": "Array Sum Finder",
+      "total": 286,
+      "javascript": 139,
+      "python": 147,
+      "both": 33
+    },
+    "2026-04-19T00:00:00.000Z": {
+      "challengeNumber": 252,
+      "title": "Unique Stair Climber",
+      "total": 411,
+      "javascript": 184,
+      "python": 227,
+      "both": 38
+    },
+    "2026-04-20T00:00:00.000Z": {
+      "challengeNumber": 253,
+      "title": "Acronym Finder",
+      "total": 665,
+      "javascript": 301,
+      "python": 364,
+      "both": 50
+    },
+    "2026-04-21T00:00:00.000Z": {
+      "challengeNumber": 254,
+      "title": "Odd Words",
+      "total": 693,
+      "javascript": 318,
+      "python": 375,
+      "both": 54
+    },
+    "2026-04-22T00:00:00.000Z": {
+      "challengeNumber": 255,
+      "title": "Earth Day Cleanup Crew",
+      "total": 427,
+      "javascript": 180,
+      "python": 247,
+      "both": 35
+    },
+    "2026-04-23T00:00:00.000Z": {
+      "challengeNumber": 256,
+      "title": "Closest Time Direction",
+      "total": 442,
+      "javascript": 190,
+      "python": 252,
+      "both": 37
+    },
+    "2026-04-24T00:00:00.000Z": {
+      "challengeNumber": 257,
+      "title": "Word Compressor",
+      "total": 502,
+      "javascript": 218,
+      "python": 284,
+      "both": 39
+    },
+    "2026-04-25T00:00:00.000Z": {
+      "challengeNumber": 258,
+      "title": "Word Decompressor",
+      "total": 451,
+      "javascript": 206,
+      "python": 245,
+      "both": 34
+    },
+    "2026-04-26T00:00:00.000Z": {
+      "challengeNumber": 259,
+      "title": "FizzBuzz Explosion",
+      "total": 339,
+      "javascript": 147,
+      "python": 192,
+      "both": 31
+    },
+    "2026-04-27T00:00:00.000Z": {
+      "challengeNumber": 260,
+      "title": "Word Score",
+      "total": 677,
+      "javascript": 304,
+      "python": 373,
+      "both": 43
+    },
+    "2026-04-28T00:00:00.000Z": {
+      "challengeNumber": 261,
+      "title": "Number Words",
+      "total": 550,
+      "javascript": 243,
+      "python": 307,
+      "both": 40
+    },
+    "2026-04-29T00:00:00.000Z": {
+      "challengeNumber": 262,
+      "title": "URL Query Parser",
+      "total": 528,
+      "javascript": 237,
+      "python": 291,
+      "both": 45
+    },
+    "2026-04-30T00:00:00.000Z": {
+      "challengeNumber": 263,
+      "title": "Binary Crossword",
+      "total": 366,
+      "javascript": 170,
+      "python": 196,
+      "both": 33
+    },
+    "2026-05-01T00:00:00.000Z": {
+      "challengeNumber": 264,
+      "title": "Anagram Groups",
+      "total": 473,
+      "javascript": 210,
+      "python": 263,
+      "both": 36
+    },
+    "2026-05-02T00:00:00.000Z": {
+      "challengeNumber": 265,
+      "title": "Deepest Brackets",
+      "total": 350,
+      "javascript": 151,
+      "python": 199,
+      "both": 29
+    },
+    "2026-05-03T00:00:00.000Z": {
+      "challengeNumber": 266,
+      "title": "Good Day",
+      "total": 603,
+      "javascript": 268,
+      "python": 335,
+      "both": 40
+    },
+    "2026-05-04T00:00:00.000Z": {
+      "challengeNumber": 267,
+      "title": "Parsec Converter",
+      "total": 659,
+      "javascript": 304,
+      "python": 355,
+      "both": 46
+    },
+    "2026-05-05T00:00:00.000Z": {
+      "challengeNumber": 268,
+      "title": "Narcissistic Number",
+      "total": 610,
+      "javascript": 273,
+      "python": 337,
+      "both": 36
+    },
+    "2026-05-06T00:00:00.000Z": {
+      "challengeNumber": 269,
+      "title": "Allergen Friendly Meals",
+      "total": 321,
+      "javascript": 141,
+      "python": 180,
+      "both": 27
     }
   },
   "challengeCompletionDistribution": {
-    "1": 12929,
-    "2": 3374,
-    "3": 1679,
-    "4": 1041,
-    "5": 775,
-    "6": 517,
-    "7": 414,
-    "8": 343,
-    "9": 311,
-    "10": 262,
-    "11": 203,
-    "12": 182,
-    "13": 146,
-    "14": 146,
+    "1": 14075,
+    "2": 3592,
+    "3": 1784,
+    "4": 1115,
+    "5": 804,
+    "6": 556,
+    "7": 410,
+    "8": 362,
+    "9": 322,
+    "10": 282,
+    "11": 216,
+    "12": 183,
+    "13": 161,
+    "14": 158,
     "15": 149,
-    "16": 121,
-    "17": 96,
-    "18": 98,
-    "19": 77,
-    "20": 67,
-    "21": 63,
-    "22": 68,
-    "23": 62,
-    "24": 61,
-    "25": 64,
-    "26": 49,
-    "27": 43,
+    "16": 136,
+    "17": 105,
+    "18": 106,
+    "19": 79,
+    "20": 74,
+    "21": 62,
+    "22": 75,
+    "23": 63,
+    "24": 72,
+    "25": 68,
+    "26": 57,
+    "27": 48,
     "28": 42,
-    "29": 38,
-    "30": 39,
+    "29": 43,
+    "30": 37,
     "31": 43,
-    "32": 25,
-    "33": 36,
-    "34": 30,
-    "35": 23,
-    "36": 31,
-    "37": 18,
-    "38": 19,
-    "39": 15,
-    "40": 25,
-    "41": 18,
-    "42": 20,
-    "43": 19,
-    "44": 14,
-    "45": 19,
-    "46": 14,
-    "47": 21,
-    "48": 15,
-    "49": 16,
-    "50": 20,
-    "51": 15,
-    "52": 17,
-    "53": 14,
-    "54": 14,
-    "55": 13,
-    "56": 11,
-    "57": 13,
-    "58": 12,
-    "59": 18,
-    "60": 19,
-    "61": 8,
+    "32": 28,
+    "33": 44,
+    "34": 34,
+    "35": 18,
+    "36": 32,
+    "37": 19,
+    "38": 23,
+    "39": 13,
+    "40": 24,
+    "41": 20,
+    "42": 25,
+    "43": 21,
+    "44": 16,
+    "45": 14,
+    "46": 16,
+    "47": 18,
+    "48": 18,
+    "49": 17,
+    "50": 26,
+    "51": 17,
+    "52": 19,
+    "53": 15,
+    "54": 12,
+    "55": 18,
+    "56": 9,
+    "57": 14,
+    "58": 13,
+    "59": 16,
+    "60": 15,
+    "61": 11,
     "62": 10,
     "63": 13,
-    "64": 6,
-    "65": 11,
+    "64": 3,
+    "65": 15,
     "66": 7,
-    "67": 9,
-    "68": 12,
-    "69": 8,
-    "70": 8,
+    "67": 10,
+    "68": 8,
+    "69": 10,
+    "70": 11,
     "71": 9,
-    "72": 7,
+    "72": 9,
     "73": 8,
-    "74": 5,
-    "75": 11,
-    "76": 11,
-    "77": 11,
-    "78": 8,
-    "79": 18,
+    "74": 7,
+    "75": 7,
+    "76": 5,
+    "77": 17,
+    "78": 6,
+    "79": 16,
     "80": 8,
-    "81": 8,
-    "82": 7,
-    "83": 6,
-    "84": 8,
+    "81": 6,
+    "82": 8,
+    "83": 4,
+    "84": 10,
     "85": 6,
-    "86": 7,
+    "86": 4,
     "87": 9,
-    "88": 10,
+    "88": 9,
     "89": 5,
-    "90": 11,
-    "91": 9,
-    "92": 8,
-    "93": 8,
+    "90": 5,
+    "91": 12,
+    "92": 6,
+    "93": 11,
     "94": 4,
-    "95": 6,
-    "96": 6,
-    "97": 2,
-    "98": 5,
-    "99": 11,
+    "95": 5,
+    "96": 5,
+    "97": 4,
+    "98": 8,
+    "99": 8,
     "100": 4,
     "101": 3,
-    "102": 5,
-    "103": 8,
-    "104": 5,
-    "105": 5,
-    "106": 5,
-    "107": 5,
-    "108": 6,
-    "109": 5,
-    "110": 8,
-    "111": 2,
-    "112": 4,
+    "102": 4,
+    "103": 5,
+    "104": 8,
+    "105": 7,
+    "106": 6,
+    "107": 6,
+    "108": 10,
+    "109": 3,
+    "110": 5,
+    "111": 4,
+    "112": 10,
     "113": 4,
     "114": 4,
     "115": 6,
-    "116": 5,
-    "117": 3,
-    "118": 3,
+    "116": 9,
+    "117": 4,
+    "118": 4,
     "119": 3,
-    "120": 9,
-    "121": 5,
-    "122": 5,
+    "120": 8,
+    "121": 3,
+    "122": 4,
     "123": 3,
-    "124": 3,
-    "126": 2,
-    "127": 2,
-    "128": 2,
-    "129": 2,
-    "130": 5,
-    "131": 2,
-    "132": 2,
-    "133": 1,
+    "124": 2,
+    "125": 2,
+    "126": 3,
+    "127": 4,
+    "128": 3,
+    "129": 1,
+    "130": 4,
+    "131": 1,
+    "132": 1,
+    "133": 6,
     "134": 3,
-    "135": 1,
-    "136": 2,
-    "137": 4,
-    "138": 4,
-    "139": 2,
+    "135": 3,
+    "136": 1,
+    "137": 7,
+    "138": 5,
+    "139": 3,
     "140": 2,
-    "141": 2,
+    "141": 5,
     "142": 2,
     "143": 4,
-    "144": 3,
-    "145": 3,
+    "144": 2,
+    "145": 2,
     "146": 1,
-    "147": 2,
-    "148": 3,
+    "147": 5,
+    "148": 4,
     "149": 3,
-    "150": 3,
-    "151": 2,
-    "152": 3,
+    "150": 4,
+    "151": 1,
+    "152": 1,
     "153": 2,
-    "154": 1,
-    "155": 3,
-    "156": 2,
-    "157": 1,
+    "154": 2,
+    "155": 4,
+    "156": 4,
+    "157": 3,
     "158": 5,
     "159": 1,
-    "160": 1,
-    "162": 1,
-    "163": 2,
-    "165": 3,
-    "167": 4,
-    "168": 5,
-    "169": 3,
-    "170": 3,
-    "171": 4,
-    "172": 2,
-    "174": 2,
-    "175": 3,
-    "176": 3,
-    "177": 2,
-    "179": 6,
-    "180": 4,
+    "160": 2,
+    "161": 1,
+    "162": 2,
+    "163": 1,
+    "164": 2,
+    "165": 2,
+    "167": 3,
+    "168": 3,
+    "169": 1,
+    "170": 2,
+    "171": 3,
+    "172": 4,
+    "173": 2,
+    "174": 1,
+    "175": 1,
+    "176": 1,
+    "178": 1,
+    "179": 4,
+    "180": 2,
     "181": 2,
+    "182": 1,
     "183": 2,
-    "186": 1,
-    "187": 2,
+    "184": 2,
+    "186": 3,
     "188": 1,
-    "189": 1,
-    "190": 4,
-    "191": 1,
-    "192": 1,
-    "193": 5,
-    "194": 2,
-    "197": 1,
-    "198": 2,
+    "189": 2,
+    "190": 3,
+    "191": 3,
+    "192": 2,
+    "193": 2,
+    "194": 3,
+    "196": 4,
+    "197": 4,
+    "198": 1,
     "199": 1,
-    "200": 2,
-    "201": 1,
-    "202": 1,
-    "203": 1,
-    "204": 1,
+    "200": 4,
+    "203": 4,
     "205": 1,
-    "206": 1,
-    "207": 4,
-    "209": 2,
-    "210": 3,
-    "211": 3,
+    "206": 2,
+    "209": 1,
+    "211": 2,
     "212": 2,
-    "213": 2,
-    "214": 4,
-    "215": 3,
-    "217": 1,
-    "219": 3,
-    "220": 2,
+    "213": 1,
+    "214": 1,
+    "215": 4,
+    "216": 1,
+    "218": 1,
+    "219": 2,
+    "220": 1,
     "221": 1,
-    "222": 4,
+    "222": 1,
     "223": 2,
     "224": 2,
-    "225": 1,
-    "226": 1,
-    "227": 2,
+    "225": 2,
+    "226": 3,
+    "227": 3,
     "228": 3,
     "229": 2,
-    "231": 4,
-    "232": 6,
-    "233": 3,
-    "234": 5,
-    "235": 3,
-    "236": 3,
-    "237": 10,
-    "238": 3,
-    "239": 7,
-    "240": 12,
-    "241": 46
+    "231": 2,
+    "233": 1,
+    "234": 3,
+    "235": 1,
+    "237": 2,
+    "238": 4,
+    "239": 3,
+    "240": 2,
+    "241": 2,
+    "242": 1,
+    "243": 3,
+    "244": 2,
+    "245": 1,
+    "246": 1,
+    "247": 2,
+    "248": 3,
+    "249": 1,
+    "250": 3,
+    "251": 4,
+    "253": 2,
+    "254": 1,
+    "255": 1,
+    "256": 3,
+    "257": 3,
+    "258": 3,
+    "259": 3,
+    "260": 2,
+    "261": 2,
+    "262": 3,
+    "263": 7,
+    "264": 4,
+    "265": 5,
+    "266": 2,
+    "267": 3,
+    "268": 8,
+    "269": 45
   },
   "challengeCompletionDistributionOnReleaseDay": {
-    "0": 4837,
-    "1": 13440,
-    "2": 2370,
-    "3": 1056,
-    "4": 555,
-    "5": 385,
-    "6": 288,
-    "7": 184,
-    "8": 167,
-    "9": 136,
-    "10": 103,
-    "11": 92,
-    "12": 68,
-    "13": 71,
-    "14": 55,
-    "15": 38,
-    "16": 52,
-    "17": 41,
-    "18": 35,
-    "19": 39,
-    "20": 24,
-    "21": 24,
-    "22": 25,
-    "23": 30,
-    "24": 22,
-    "25": 16,
-    "26": 17,
-    "27": 29,
+    "0": 5141,
+    "1": 14549,
+    "2": 2527,
+    "3": 1125,
+    "4": 606,
+    "5": 413,
+    "6": 297,
+    "7": 201,
+    "8": 175,
+    "9": 146,
+    "10": 113,
+    "11": 103,
+    "12": 74,
+    "13": 76,
+    "14": 58,
+    "15": 48,
+    "16": 50,
+    "17": 47,
+    "18": 34,
+    "19": 34,
+    "20": 23,
+    "21": 32,
+    "22": 23,
+    "23": 32,
+    "24": 18,
+    "25": 24,
+    "26": 20,
+    "27": 33,
     "28": 15,
-    "29": 14,
-    "30": 19,
-    "31": 19,
-    "32": 11,
-    "33": 15,
-    "34": 18,
-    "35": 12,
+    "29": 16,
+    "30": 17,
+    "31": 18,
+    "32": 12,
+    "33": 16,
+    "34": 20,
+    "35": 17,
     "36": 15,
-    "37": 10,
-    "38": 11,
-    "39": 9,
-    "40": 11,
-    "41": 9,
-    "42": 7,
-    "43": 7,
+    "37": 12,
+    "38": 7,
+    "39": 10,
+    "40": 17,
+    "41": 12,
+    "42": 8,
+    "43": 9,
     "44": 4,
-    "45": 12,
-    "46": 7,
-    "47": 10,
-    "48": 4,
-    "49": 10,
-    "50": 12,
-    "51": 10,
-    "52": 5,
-    "53": 10,
-    "54": 5,
-    "55": 8,
-    "56": 10,
-    "57": 4,
-    "58": 4,
-    "59": 4,
-    "60": 5,
-    "61": 5,
-    "62": 3,
-    "63": 4,
+    "45": 9,
+    "46": 5,
+    "47": 8,
+    "48": 8,
+    "49": 8,
+    "50": 11,
+    "51": 8,
+    "52": 4,
+    "53": 9,
+    "54": 7,
+    "55": 6,
+    "56": 6,
+    "57": 6,
+    "58": 5,
+    "59": 6,
+    "60": 4,
+    "61": 6,
+    "62": 2,
+    "63": 9,
     "64": 4,
-    "65": 8,
-    "66": 7,
-    "67": 2,
-    "68": 3,
+    "65": 5,
+    "66": 10,
+    "67": 6,
+    "68": 1,
     "69": 4,
-    "70": 3,
-    "71": 8,
-    "72": 1,
-    "73": 2,
+    "70": 6,
+    "71": 9,
+    "72": 4,
+    "73": 4,
     "74": 4,
     "75": 5,
-    "76": 3,
-    "77": 2,
-    "78": 5,
-    "79": 1,
-    "80": 4,
-    "81": 2,
-    "82": 8,
+    "76": 2,
+    "77": 1,
+    "78": 6,
+    "79": 2,
+    "80": 3,
+    "81": 3,
+    "82": 3,
     "83": 1,
-    "84": 1,
-    "85": 6,
+    "84": 2,
+    "85": 5,
     "86": 2,
     "87": 3,
-    "88": 3,
-    "89": 2,
-    "90": 2,
-    "91": 5,
-    "92": 2,
+    "88": 4,
+    "89": 4,
+    "91": 2,
+    "92": 4,
     "93": 3,
-    "94": 2,
-    "95": 3,
-    "97": 4,
-    "99": 2,
-    "100": 1,
-    "101": 2,
-    "102": 2,
-    "103": 6,
-    "104": 4,
-    "106": 4,
-    "107": 2,
-    "108": 1,
-    "109": 3,
-    "110": 2,
-    "111": 4,
-    "112": 2,
-    "113": 1,
-    "115": 1,
-    "116": 1,
-    "118": 1,
-    "119": 2,
-    "120": 1,
-    "121": 1,
-    "122": 1,
-    "123": 1,
-    "125": 1,
-    "126": 3,
-    "127": 3,
-    "128": 2,
-    "132": 2,
-    "133": 1,
-    "134": 1,
-    "135": 2,
-    "137": 1,
-    "138": 1,
-    "139": 1,
-    "140": 2,
-    "143": 1,
-    "144": 1,
-    "145": 3,
-    "146": 1,
-    "148": 3,
-    "149": 1,
-    "150": 3,
-    "151": 1,
-    "152": 2,
-    "155": 1,
-    "156": 1,
-    "157": 2,
-    "158": 2,
-    "159": 1,
-    "160": 1,
-    "162": 1,
-    "163": 1,
-    "165": 1,
-    "166": 1,
-    "168": 1,
-    "169": 2,
-    "171": 1,
-    "172": 2,
-    "173": 2,
-    "174": 2,
-    "175": 1,
-    "178": 3,
-    "179": 2,
-    "180": 5,
-    "181": 2,
-    "184": 1,
-    "185": 1,
-    "187": 1,
-    "188": 3,
-    "189": 1,
-    "190": 2,
-    "191": 3,
-    "193": 1,
-    "195": 2,
-    "197": 1,
-    "200": 1,
-    "202": 1,
-    "205": 2,
-    "206": 1,
-    "208": 2,
-    "210": 2,
-    "212": 1,
-    "216": 2,
-    "217": 1,
-    "219": 1,
-    "225": 1,
-    "235": 1,
-    "236": 1
-  },
-  "consecutiveCompletedChallenges": {
-    "1": 59061,
-    "2": 7620,
-    "3": 3616,
-    "4": 2123,
-    "5": 1498,
-    "6": 1087,
-    "7": 507,
-    "8": 486,
-    "9": 405,
-    "10": 321,
-    "11": 295,
-    "12": 222,
-    "13": 202,
-    "14": 140,
-    "15": 183,
-    "16": 110,
-    "17": 96,
-    "18": 89,
-    "19": 93,
-    "20": 82,
-    "21": 56,
-    "22": 38,
-    "23": 36,
-    "24": 42,
-    "25": 35,
-    "26": 51,
-    "27": 32,
-    "28": 31,
-    "29": 26,
-    "30": 38,
-    "31": 35,
-    "32": 20,
-    "33": 27,
-    "34": 33,
-    "35": 10,
-    "36": 25,
-    "37": 14,
-    "38": 18,
-    "39": 24,
-    "40": 17,
-    "41": 18,
-    "42": 11,
-    "43": 14,
-    "44": 12,
-    "45": 12,
-    "46": 9,
-    "47": 13,
-    "48": 13,
-    "49": 8,
-    "50": 8,
-    "51": 16,
-    "52": 11,
-    "53": 8,
-    "54": 4,
-    "55": 15,
-    "56": 7,
-    "57": 13,
-    "58": 6,
-    "59": 14,
-    "60": 10,
-    "61": 7,
-    "62": 11,
-    "63": 10,
-    "64": 9,
-    "65": 6,
-    "66": 12,
-    "67": 9,
-    "68": 3,
-    "69": 7,
-    "70": 5,
-    "71": 3,
-    "72": 5,
-    "73": 6,
-    "74": 6,
-    "75": 4,
-    "76": 3,
-    "77": 5,
-    "78": 7,
-    "79": 2,
-    "80": 2,
-    "81": 6,
-    "82": 3,
-    "83": 4,
-    "84": 4,
-    "85": 1,
-    "86": 4,
-    "87": 4,
-    "88": 5,
-    "89": 8,
-    "90": 7,
-    "91": 3,
-    "92": 5,
-    "93": 7,
-    "94": 5,
-    "95": 1,
-    "96": 2,
-    "97": 4,
-    "98": 10,
-    "99": 6,
+    "94": 3,
+    "95": 2,
+    "96": 5,
+    "97": 2,
+    "99": 3,
     "100": 1,
     "101": 2,
     "102": 3,
     "103": 2,
     "104": 2,
-    "107": 1,
+    "105": 1,
+    "106": 1,
+    "107": 3,
+    "108": 4,
     "109": 3,
-    "110": 7,
+    "110": 4,
+    "111": 2,
+    "112": 3,
+    "113": 1,
+    "114": 1,
+    "115": 2,
+    "117": 1,
+    "118": 3,
+    "122": 2,
+    "123": 1,
+    "124": 2,
+    "126": 2,
+    "127": 1,
+    "128": 4,
+    "129": 1,
+    "130": 1,
+    "131": 1,
+    "132": 1,
+    "134": 1,
+    "136": 1,
+    "137": 2,
+    "138": 2,
+    "139": 3,
+    "142": 4,
+    "143": 1,
+    "145": 1,
+    "147": 1,
+    "149": 1,
+    "150": 4,
+    "151": 3,
+    "152": 2,
+    "155": 1,
+    "156": 1,
+    "159": 1,
+    "160": 1,
+    "162": 4,
+    "164": 2,
+    "165": 1,
+    "169": 1,
+    "170": 1,
+    "172": 1,
+    "173": 2,
+    "175": 2,
+    "177": 2,
+    "179": 3,
+    "180": 2,
+    "181": 1,
+    "182": 1,
+    "184": 1,
+    "188": 1,
+    "191": 1,
+    "192": 1,
+    "193": 1,
+    "195": 3,
+    "196": 1,
+    "197": 1,
+    "198": 2,
+    "199": 1,
+    "200": 1,
+    "201": 2,
+    "202": 4,
+    "204": 1,
+    "205": 3,
+    "206": 2,
+    "207": 2,
+    "209": 1,
+    "212": 1,
+    "213": 1,
+    "215": 1,
+    "218": 2,
+    "219": 1,
+    "220": 1,
+    "225": 1,
+    "228": 1,
+    "230": 1,
+    "231": 2,
+    "232": 3,
+    "233": 1,
+    "235": 2,
+    "237": 1,
+    "238": 1,
+    "240": 1,
+    "247": 1,
+    "252": 1,
+    "263": 2
+  },
+  "consecutiveCompletedChallenges": {
+    "1": 64528,
+    "2": 8446,
+    "3": 4110,
+    "4": 2347,
+    "5": 1623,
+    "6": 1179,
+    "7": 557,
+    "8": 524,
+    "9": 416,
+    "10": 359,
+    "11": 324,
+    "12": 240,
+    "13": 219,
+    "14": 148,
+    "15": 191,
+    "16": 123,
+    "17": 106,
+    "18": 96,
+    "19": 95,
+    "20": 89,
+    "21": 66,
+    "22": 41,
+    "23": 36,
+    "24": 43,
+    "25": 33,
+    "26": 56,
+    "27": 41,
+    "28": 37,
+    "29": 30,
+    "30": 39,
+    "31": 36,
+    "32": 17,
+    "33": 28,
+    "34": 32,
+    "35": 12,
+    "36": 36,
+    "37": 11,
+    "38": 18,
+    "39": 21,
+    "40": 19,
+    "41": 17,
+    "42": 13,
+    "43": 13,
+    "44": 10,
+    "45": 13,
+    "46": 10,
+    "47": 12,
+    "48": 15,
+    "49": 8,
+    "50": 7,
+    "51": 17,
+    "52": 16,
+    "53": 11,
+    "54": 3,
+    "55": 16,
+    "56": 8,
+    "57": 13,
+    "58": 4,
+    "59": 17,
+    "60": 11,
+    "61": 7,
+    "62": 11,
+    "63": 9,
+    "64": 6,
+    "65": 6,
+    "66": 10,
+    "67": 8,
+    "68": 6,
+    "69": 10,
+    "70": 6,
+    "71": 4,
+    "72": 7,
+    "73": 7,
+    "74": 7,
+    "75": 5,
+    "76": 3,
+    "77": 4,
+    "78": 7,
+    "79": 2,
+    "80": 2,
+    "81": 4,
+    "82": 2,
+    "83": 4,
+    "84": 4,
+    "85": 1,
+    "86": 4,
+    "87": 3,
+    "88": 6,
+    "89": 6,
+    "90": 7,
+    "91": 3,
+    "92": 6,
+    "93": 8,
+    "94": 7,
+    "95": 2,
+    "96": 1,
+    "97": 4,
+    "98": 4,
+    "99": 3,
+    "100": 1,
+    "101": 3,
+    "102": 2,
+    "103": 7,
+    "104": 4,
+    "105": 1,
+    "106": 2,
+    "107": 4,
+    "109": 2,
+    "110": 4,
+    "111": 2,
     "112": 2,
     "113": 1,
     "114": 1,
     "115": 2,
-    "116": 2,
-    "117": 4,
-    "120": 2,
-    "121": 1,
+    "116": 3,
+    "117": 2,
+    "119": 1,
+    "120": 1,
+    "121": 3,
     "122": 1,
-    "123": 2,
+    "123": 1,
     "124": 4,
-    "125": 1,
+    "125": 4,
+    "126": 2,
     "127": 1,
-    "128": 3,
-    "129": 2,
-    "130": 1,
-    "131": 4,
+    "128": 2,
+    "129": 1,
+    "131": 5,
+    "133": 1,
     "136": 1,
     "138": 1,
     "139": 1,
     "140": 1,
     "141": 1,
-    "142": 2,
-    "143": 2,
+    "142": 3,
+    "143": 3,
+    "144": 1,
+    "145": 1,
     "146": 1,
     "147": 2,
     "148": 2,
-    "149": 1,
+    "149": 2,
     "150": 1,
     "152": 1,
     "154": 3,
     "155": 1,
     "156": 2,
-    "158": 1,
-    "159": 2,
-    "161": 3,
-    "166": 4,
-    "167": 1,
+    "157": 2,
+    "158": 2,
+    "159": 1,
+    "161": 1,
+    "163": 1,
+    "166": 3,
     "168": 2,
-    "170": 1,
-    "172": 3,
+    "170": 2,
+    "172": 1,
     "173": 1,
-    "174": 3,
+    "174": 4,
     "175": 1,
-    "176": 2,
+    "176": 3,
     "178": 3,
-    "179": 2,
-    "180": 2,
+    "179": 1,
+    "180": 1,
     "181": 1,
-    "183": 3,
+    "183": 2,
     "186": 1,
-    "188": 2,
+    "188": 1,
     "189": 1,
     "190": 1,
-    "193": 1,
-    "194": 4,
+    "194": 5,
     "195": 1,
-    "196": 1,
+    "196": 2,
     "197": 1,
-    "200": 2,
-    "202": 1,
+    "198": 1,
+    "200": 3,
+    "201": 1,
     "203": 1,
     "207": 3,
     "209": 1,
+    "211": 1,
     "212": 1,
+    "213": 1,
     "214": 1,
-    "215": 3,
+    "215": 2,
     "216": 1,
+    "217": 1,
     "218": 1,
-    "219": 1,
     "220": 1,
-    "222": 6,
-    "224": 1,
-    "226": 1,
-    "228": 3,
-    "229": 1,
+    "221": 2,
+    "222": 4,
+    "228": 2,
+    "229": 2,
     "231": 1,
+    "232": 1,
     "233": 2,
     "234": 2,
-    "236": 1,
-    "237": 2,
-    "238": 4,
-    "240": 7,
-    "241": 46
+    "238": 2,
+    "240": 1,
+    "244": 4,
+    "246": 1,
+    "248": 1,
+    "249": 1,
+    "250": 1,
+    "254": 1,
+    "256": 1,
+    "257": 1,
+    "260": 1,
+    "261": 1,
+    "262": 1,
+    "263": 1,
+    "264": 3,
+    "265": 1,
+    "266": 1,
+    "267": 1,
+    "268": 3,
+    "269": 45
   },
   "releaseDayStreaks": {}
 };
